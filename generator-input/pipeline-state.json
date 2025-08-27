@@ -93,7 +93,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-04T17:40:58.899814440Z",
-            "lastGeneratedCommit": "f6801ce4e1df0541abb8d1e996cb36363c41fb8d",
+            "lastGeneratedCommit": "26dadebec424840f54a52a794ddc22c5d64e3ad4",
             "lastReleasedCommit": "f6801ce4e1df0541abb8d1e996cb36363c41fb8d",
             "apiPaths": [
                 "google/chat/v1"
@@ -267,7 +267,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-14T10:22:02.197401550Z",
-            "lastGeneratedCommit": "677d8cb377ca9b60ee4552bfcd607cc01b15a46e",
+            "lastGeneratedCommit": "1bb89a710d18d2c841216bc9b53f31d8bb5c8551",
             "lastReleasedCommit": "00f50236dcba1cefe619edc8b15a469a08796f58",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
@@ -3185,7 +3185,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-22T07:14:11.983368820Z",
-            "lastGeneratedCommit": "8f7ef1c0eed3ee1ce7c86c5da3511a2a9dbf4a31",
+            "lastGeneratedCommit": "a92cee399e0fc8afa2d460373b1085f543bc8d3f",
             "lastReleasedCommit": "8f7ef1c0eed3ee1ce7c86c5da3511a2a9dbf4a31",
             "apiPaths": [
                 "google/cloud/texttospeech/v1"
