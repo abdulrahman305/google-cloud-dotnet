@@ -89,12 +89,12 @@
         },
         {
             "id": "Google.Apps.Chat.V1",
-            "currentVersion": "1.0.0-beta16",
+            "currentVersion": "1.0.0-beta17",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-04T17:40:58.899814440Z",
+            "releaseTimestamp": "2025-08-28T07:41:51.342265499Z",
             "lastGeneratedCommit": "26dadebec424840f54a52a794ddc22c5d64e3ad4",
-            "lastReleasedCommit": "f6801ce4e1df0541abb8d1e996cb36363c41fb8d",
+            "lastReleasedCommit": "26dadebec424840f54a52a794ddc22c5d64e3ad4",
             "apiPaths": [
                 "google/chat/v1"
             ],
@@ -263,12 +263,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1Beta1",
-            "currentVersion": "1.0.0-beta47",
+            "currentVersion": "1.0.0-beta48",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-14T10:22:02.197401550Z",
+            "releaseTimestamp": "2025-08-28T07:43:03.514331180Z",
             "lastGeneratedCommit": "1bb89a710d18d2c841216bc9b53f31d8bb5c8551",
-            "lastReleasedCommit": "00f50236dcba1cefe619edc8b15a469a08796f58",
+            "lastReleasedCommit": "1bb89a710d18d2c841216bc9b53f31d8bb5c8551",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
             ],
@@ -1023,12 +1023,12 @@
         },
         {
             "id": "Google.Cloud.Compute.V1",
-            "currentVersion": "3.13.0",
+            "currentVersion": "3.14.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-08T08:23:54.647711836Z",
+            "releaseTimestamp": "2025-08-28T07:45:51.309732203Z",
             "lastGeneratedCommit": "525c95a7a122ec2869ae06cd02fa5013819463f6",
-            "lastReleasedCommit": "a386edb638dffe9b8e58e9054f4f2ff0dacd0509",
+            "lastReleasedCommit": "525c95a7a122ec2869ae06cd02fa5013819463f6",
             "apiPaths": [
                 "google/cloud/compute/v1"
             ],
@@ -1636,11 +1636,12 @@
         },
         {
             "id": "Google.Cloud.GdcHardwareManagement.V1Alpha",
-            "currentVersion": "1.0.0-alpha05",
+            "currentVersion": "1.0.0-alpha06",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-04-23T17:00:47Z",
-            "lastGeneratedCommit": "eb6cdb7e07f0faa7cd455513bcbbe859e71aaba3",
+            "releaseTimestamp": "2025-08-28T07:50:35.430220126Z",
+            "lastGeneratedCommit": "2b1af6f3f23fb91e40de01c703c09b465b139402",
+            "lastReleasedCommit": "2b1af6f3f23fb91e40de01c703c09b465b139402",
             "apiPaths": [
                 "google/cloud/gdchardwaremanagement/v1alpha"
             ],
@@ -3181,12 +3182,12 @@
         },
         {
             "id": "Google.Cloud.TextToSpeech.V1",
-            "currentVersion": "3.12.0",
+            "currentVersion": "3.13.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-05-22T07:14:11.983368820Z",
+            "releaseTimestamp": "2025-08-28T07:52:19.061806136Z",
             "lastGeneratedCommit": "a92cee399e0fc8afa2d460373b1085f543bc8d3f",
-            "lastReleasedCommit": "8f7ef1c0eed3ee1ce7c86c5da3511a2a9dbf4a31",
+            "lastReleasedCommit": "a92cee399e0fc8afa2d460373b1085f543bc8d3f",
             "apiPaths": [
                 "google/cloud/texttospeech/v1"
             ],
@@ -3196,11 +3197,12 @@
         },
         {
             "id": "Google.Cloud.TextToSpeech.V1Beta1",
-            "currentVersion": "2.0.0-beta12",
+            "currentVersion": "2.0.0-beta13",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-01-06T18:06:26Z",
+            "releaseTimestamp": "2025-08-28T07:53:19.934289944Z",
             "lastGeneratedCommit": "b738e78ed63effb7d199ed2d61c9e03291b6077f",
+            "lastReleasedCommit": "b738e78ed63effb7d199ed2d61c9e03291b6077f",
             "apiPaths": [
                 "google/cloud/texttospeech/v1beta1"
             ],
@@ -3319,12 +3321,12 @@
         },
         {
             "id": "Google.Cloud.Video.Transcoder.V1",
-            "currentVersion": "2.10.0",
+            "currentVersion": "2.11.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-22T08:07:21.961824403Z",
+            "releaseTimestamp": "2025-08-28T07:55:00.793743881Z",
             "lastGeneratedCommit": "c58a1bb42ebe2297b1ce25d75f309475332437c6",
-            "lastReleasedCommit": "142ec419af024eed5faa4e793e17c7a37a1a7f12",
+            "lastReleasedCommit": "c58a1bb42ebe2297b1ce25d75f309475332437c6",
             "apiPaths": [
                 "google/cloud/video/transcoder/v1"
             ],
@@ -4017,7 +4019,7 @@
             "nextVersion": "1.0.0-beta01",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "0cda37e7ad68526c1ebb3c4d27555ff17476f1e9",
+            "lastGeneratedCommit": "d55d74e062ae80af594497bf715c4b0b89993cb6",
             "apiPaths": [
                 "google/maps/weather/v1"
             ],
@@ -4235,12 +4237,12 @@
         },
         {
             "id": "Google.Cloud.GeminiDataAnalytics.V1Beta",
-            "currentVersion": "1.0.0-beta01",
+            "currentVersion": "1.0.0-beta02",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-13T16:44:42.541906307Z",
+            "releaseTimestamp": "2025-08-28T07:56:53.149296628Z",
             "lastGeneratedCommit": "7c4d9e72e01e7edfc55b5aefa8a86643a5a9799b",
-            "lastReleasedCommit": "baedbe7ff774a17beca3ce90237b4b57caa01ba4",
+            "lastReleasedCommit": "7c4d9e72e01e7edfc55b5aefa8a86643a5a9799b",
             "apiPaths": [
                 "google/cloud/geminidataanalytics/v1beta"
             ],
@@ -4509,6 +4511,7 @@
             "nextVersion": "1.0.0-beta01",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
+            "lastGeneratedCommit": "1765b559c42386788ff0c6412491277b4791107a",
             "apiPaths": [
                 "google/cloud/cloudsecuritycompliance/v1"
             ],
