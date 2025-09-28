@@ -1,5 +1,17 @@
 # Version history
 
+## Version 3.15.0, released 2025-09-24
+
+### New features
+
+- Add Gemini TTS Multispeaker API fields
+
+## Version 3.14.0, released 2025-09-08
+
+### New features
+
+- Add prompt to SynthesisInput
+
 ## Version 3.13.0, released 2025-08-28
 
 ### New features

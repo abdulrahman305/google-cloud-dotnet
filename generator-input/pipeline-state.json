@@ -180,7 +180,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T18:02:16Z",
-            "lastGeneratedCommit": "63f3f46ef0999566e5064e91788843e3bb9e5d76",
+            "lastGeneratedCommit": "222764e0853283787ba2203de6b3f57bf05b6bc5",
             "apiPaths": [
                 "google/cloud/accessapproval/v1"
             ],
@@ -263,12 +263,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1Beta1",
-            "currentVersion": "1.0.0-beta48",
+            "currentVersion": "1.0.0-beta51",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-28T07:43:03.514331180Z",
-            "lastGeneratedCommit": "c522f58521555d4b4a5656476ea5f6c1b100463a",
-            "lastReleasedCommit": "1bb89a710d18d2c841216bc9b53f31d8bb5c8551",
+            "releaseTimestamp": "2025-09-16T07:52:51.388403238Z",
+            "lastGeneratedCommit": "329ace5e3712a2e37d6159d4dcd998d8c73f261e",
+            "lastReleasedCommit": "69e69bfcdc0453fffe0a6c301fed47f0935c70af",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
             ],
@@ -278,12 +278,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1",
-            "currentVersion": "3.45.0",
+            "currentVersion": "3.46.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-20T07:26:35.817884527Z",
-            "lastGeneratedCommit": "2e51d4ddf7ca6c659b053e26ca8ffb47678c85a7",
-            "lastReleasedCommit": "2e51d4ddf7ca6c659b053e26ca8ffb47678c85a7",
+            "releaseTimestamp": "2025-09-16T07:54:44.035336539Z",
+            "lastGeneratedCommit": "329ace5e3712a2e37d6159d4dcd998d8c73f261e",
+            "lastReleasedCommit": "69e69bfcdc0453fffe0a6c301fed47f0935c70af",
             "apiPaths": [
                 "google/cloud/aiplatform/v1"
             ],
@@ -293,11 +293,12 @@
         },
         {
             "id": "Google.Cloud.ApiHub.V1",
-            "currentVersion": "1.0.0",
+            "currentVersion": "1.1.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2024-12-05T19:04:25Z",
-            "lastGeneratedCommit": "3021374c68bbc640c1f75bfffcadbd5c279811ee",
+            "releaseTimestamp": "2025-09-16T07:57:06.918863261Z",
+            "lastGeneratedCommit": "748ffeec58bab5d70a4dbc89e1b34702c97d12ef",
+            "lastReleasedCommit": "748ffeec58bab5d70a4dbc89e1b34702c97d12ef",
             "apiPaths": [
                 "google/cloud/apihub/v1"
             ],
@@ -479,7 +480,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T18:14:16Z",
-            "lastGeneratedCommit": "3021374c68bbc640c1f75bfffcadbd5c279811ee",
+            "lastGeneratedCommit": "222764e0853283787ba2203de6b3f57bf05b6bc5",
             "apiPaths": [
                 "google/cloud/automl/v1"
             ],
@@ -493,7 +494,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-28T07:28:16.446945909Z",
-            "lastGeneratedCommit": "a2afc2935ee0c3bd4c5816d9fb8ca28432e2255c",
+            "lastGeneratedCommit": "d4a9eb5869a1698d8887a68dd17e5bda9ec802d3",
             "lastReleasedCommit": "a2afc2935ee0c3bd4c5816d9fb8ca28432e2255c",
             "apiPaths": [
                 "google/cloud/backupdr/v1"
@@ -532,11 +533,12 @@
         },
         {
             "id": "Google.Cloud.Batch.V1Alpha",
-            "currentVersion": "1.0.0-alpha31",
+            "currentVersion": "1.0.0-alpha32",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2024-09-16T16:36:25Z",
-            "lastGeneratedCommit": "3021374c68bbc640c1f75bfffcadbd5c279811ee",
+            "releaseTimestamp": "2025-09-16T07:59:18.829829848Z",
+            "lastGeneratedCommit": "9d640a8a24199038731692658936c57e6d898562",
+            "lastReleasedCommit": "9d640a8a24199038731692658936c57e6d898562",
             "apiPaths": [
                 "google/cloud/batch/v1alpha"
             ],
@@ -602,12 +604,12 @@
         },
         {
             "id": "Google.Cloud.BigQuery.AnalyticsHub.V1",
-            "currentVersion": "1.9.0",
+            "currentVersion": "1.10.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-05-15T20:20:59.493324297Z",
-            "lastGeneratedCommit": "1270a1ba7ae32ce486b28d00ced9575c29d9ff75",
-            "lastReleasedCommit": "1270a1ba7ae32ce486b28d00ced9575c29d9ff75",
+            "releaseTimestamp": "2025-09-03T08:51:28.522300047Z",
+            "lastGeneratedCommit": "b49565973e491aad49612bafd5b473a3ead19a8b",
+            "lastReleasedCommit": "b49565973e491aad49612bafd5b473a3ead19a8b",
             "apiPaths": [
                 "google/cloud/bigquery/analyticshub/v1"
             ],
@@ -621,7 +623,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T18:04:26Z",
-            "lastGeneratedCommit": "181ce7632c5f9d9495136a15c1b79d5a4d5647c2",
+            "lastGeneratedCommit": "222764e0853283787ba2203de6b3f57bf05b6bc5",
             "apiPaths": [
                 "google/cloud/bigquery/connection/v1"
             ],
@@ -715,12 +717,12 @@
         },
         {
             "id": "Google.Cloud.BigQuery.Reservation.V1",
-            "currentVersion": "2.8.0",
+            "currentVersion": "2.9.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-19T10:14:53.745263373Z",
-            "lastGeneratedCommit": "6388d14fd59978c4ffd72d324a2f4feab143f487",
-            "lastReleasedCommit": "6388d14fd59978c4ffd72d324a2f4feab143f487",
+            "releaseTimestamp": "2025-09-03T08:53:17.234674739Z",
+            "lastGeneratedCommit": "afe86f35d153a3989ad2e48bd8f406924817dbf8",
+            "lastReleasedCommit": "afe86f35d153a3989ad2e48bd8f406924817dbf8",
             "apiPaths": [
                 "google/cloud/bigquery/reservation/v1"
             ],
@@ -744,7 +746,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-14T16:10:26Z",
-            "lastGeneratedCommit": "0f800627ddf319d422c86f5eef9dea96b782f0d9",
+            "lastGeneratedCommit": "222764e0853283787ba2203de6b3f57bf05b6bc5",
             "apiPaths": [
                 "google/cloud/bigquery/storage/v1"
             ],
@@ -779,12 +781,12 @@
         },
         {
             "id": "Google.Cloud.Bigtable.V2",
-            "currentVersion": "3.23.0",
+            "currentVersion": "3.24.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-12T08:23:24.366285726Z",
-            "lastGeneratedCommit": "fe06a492944dc3a8360ed5b426942d34631eeca7",
-            "lastReleasedCommit": "fe06a492944dc3a8360ed5b426942d34631eeca7",
+            "releaseTimestamp": "2025-09-16T08:00:14.702104732Z",
+            "lastGeneratedCommit": "6d1dca2b8e3d50914609414e219df2778b2b20ba",
+            "lastReleasedCommit": "6d1dca2b8e3d50914609414e219df2778b2b20ba",
             "apiPaths": [
                 "google/bigtable/v2"
             ],
@@ -955,7 +957,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T17:54:16Z",
-            "lastGeneratedCommit": "3f103ea2269aafa78eca65d29092870d1eb61d48",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/clouddms/v1"
             ],
@@ -998,7 +1000,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-28T15:39:38.189657802Z",
-            "lastGeneratedCommit": "32a745de44b8b2e506677389d9921dfb6fc81f33",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "lastReleasedCommit": "32a745de44b8b2e506677389d9921dfb6fc81f33",
             "apiPaths": [
                 "google/cloud/commerce/consumer/procurement/v1"
@@ -1023,12 +1025,12 @@
         },
         {
             "id": "Google.Cloud.Compute.V1",
-            "currentVersion": "3.14.0",
+            "currentVersion": "3.16.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-28T07:45:51.309732203Z",
-            "lastGeneratedCommit": "525c95a7a122ec2869ae06cd02fa5013819463f6",
-            "lastReleasedCommit": "525c95a7a122ec2869ae06cd02fa5013819463f6",
+            "releaseTimestamp": "2025-09-16T08:03:26.046507889Z",
+            "lastGeneratedCommit": "5caeec4d72173ea3f2772b1b67a5c3f9192a6d06",
+            "lastReleasedCommit": "57ddfb32ecf64ec42ef5afdf197feee2c9ef497b",
             "apiPaths": [
                 "google/cloud/compute/v1"
             ],
@@ -1038,11 +1040,12 @@
         },
         {
             "id": "Google.Cloud.ConfidentialComputing.V1",
-            "currentVersion": "1.8.0",
+            "currentVersion": "1.9.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-02-25T19:18:27Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "releaseTimestamp": "2025-09-03T09:00:09.161339223Z",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
+            "lastReleasedCommit": "bf9ef0b974165254603138d47a1f09ea1aa9cd0a",
             "apiPaths": [
                 "google/cloud/confidentialcomputing/v1"
             ],
@@ -1056,7 +1059,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-08T17:32:19Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/confidentialcomputing/v1alpha1"
             ],
@@ -1066,12 +1069,12 @@
         },
         {
             "id": "Google.Cloud.Config.V1",
-            "currentVersion": "1.8.0",
+            "currentVersion": "1.9.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-09T07:42:54.208609689Z",
-            "lastGeneratedCommit": "1cfbbd295bf3fd700267f5c1ef99914923dc6972",
-            "lastReleasedCommit": "e0ccc57ed01b0057222f865de5765b7e453cfd81",
+            "releaseTimestamp": "2025-09-03T09:00:41.366359895Z",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
+            "lastReleasedCommit": "65afc22de9b311ccdc38e737cc2e3739608706dd",
             "apiPaths": [
                 "google/cloud/config/v1"
             ],
@@ -1085,7 +1088,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T17:48:18Z",
-            "lastGeneratedCommit": "6caf69b6f1d3f80255fa46e504acf96e38ef34c0",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/connectors/v1"
             ],
@@ -1099,7 +1102,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-01-06T17:50:26Z",
-            "lastGeneratedCommit": "12fc2f929e39688aa24ae6fc5e18db3315975a6e",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/contactcenterinsights/v1"
             ],
@@ -1113,7 +1116,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-22T07:58:29.449593799Z",
-            "lastGeneratedCommit": "a640ed837f82299e6ec7b805d2c111add7704a2e",
+            "lastGeneratedCommit": "d4a9eb5869a1698d8887a68dd17e5bda9ec802d3",
             "lastReleasedCommit": "a640ed837f82299e6ec7b805d2c111add7704a2e",
             "apiPaths": [
                 "google/container/v1"
@@ -1128,7 +1131,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T17:48:24Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/datacatalog/lineage/v1"
             ],
@@ -1142,7 +1145,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-23T17:02:25Z",
-            "lastGeneratedCommit": "180250ccb48a7bbd984b5e755bfacb0a11cacb88",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/datacatalog/v1"
             ],
@@ -1156,7 +1159,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T17:54:24Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/datafusion/v1"
             ],
@@ -1185,7 +1188,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-19T16:46:13.802124251Z",
-            "lastGeneratedCommit": "b1161bf17c14603fb8980d341b1427c7a6a43c45",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "lastReleasedCommit": "b1161bf17c14603fb8980d341b1427c7a6a43c45",
             "apiPaths": [
                 "google/cloud/dataform/v1beta1"
@@ -1196,12 +1199,12 @@
         },
         {
             "id": "Google.Cloud.Dataplex.V1",
-            "currentVersion": "3.9.0",
+            "currentVersion": "3.10.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-07T14:15:54.695114391Z",
-            "lastGeneratedCommit": "3d9726a6edfee1a1eb33df23cc692c5c7ae79735",
-            "lastReleasedCommit": "3d9726a6edfee1a1eb33df23cc692c5c7ae79735",
+            "releaseTimestamp": "2025-09-16T08:08:58.985725404Z",
+            "lastGeneratedCommit": "d4a9eb5869a1698d8887a68dd17e5bda9ec802d3",
+            "lastReleasedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/dataplex/v1"
             ],
@@ -1211,12 +1214,12 @@
         },
         {
             "id": "Google.Cloud.Dataproc.V1",
-            "currentVersion": "5.20.0",
+            "currentVersion": "5.21.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-07T14:16:50.646787353Z",
-            "lastGeneratedCommit": "ea37c68239166929165e5f038166ee633e110ad4",
-            "lastReleasedCommit": "ea37c68239166929165e5f038166ee633e110ad4",
+            "releaseTimestamp": "2025-09-24T07:53:17.409258058Z",
+            "lastGeneratedCommit": "d89b4d093fa1526255dbc724495c3bdb0e5dd384",
+            "lastReleasedCommit": "d89b4d093fa1526255dbc724495c3bdb0e5dd384",
             "apiPaths": [
                 "google/cloud/dataproc/v1"
             ],
@@ -1258,7 +1261,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-08T08:29:42.859437576Z",
-            "lastGeneratedCommit": "ee5d4f3dfdf9ac08c3e6807054e5408da88f2bb7",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "lastReleasedCommit": "ee5d4f3dfdf9ac08c3e6807054e5408da88f2bb7",
             "apiPaths": [
                 "google/cloud/datastream/v1"
@@ -1273,7 +1276,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-08T17:38:19Z",
-            "lastGeneratedCommit": "2dc21fecf8709ee1e7937e8be3a9a136a1fdb613",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/datastream/v1alpha1"
             ],
@@ -1287,7 +1290,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-09T07:30:33.088739323Z",
-            "lastGeneratedCommit": "91c26618f1c8076e85582cceaeedfce3881145b8",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "lastReleasedCommit": "91c26618f1c8076e85582cceaeedfce3881145b8",
             "apiPaths": [
                 "google/cloud/deploy/v1"
@@ -1312,7 +1315,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-06-25T07:33:42.827088511Z",
-            "lastGeneratedCommit": "3a483200a389304121fb01c11f31225cf07b02a9",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "lastReleasedCommit": "3a483200a389304121fb01c11f31225cf07b02a9",
             "apiPaths": [
                 "google/cloud/developerconnect/v1"
@@ -1327,7 +1330,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-07T14:18:48.676441488Z",
-            "lastGeneratedCommit": "24cab82a025bb11a7b8c437a20a6e7780b968707",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "lastReleasedCommit": "24cab82a025bb11a7b8c437a20a6e7780b968707",
             "apiPaths": [
                 "google/cloud/dialogflow/cx/v3"
@@ -1342,7 +1345,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-10T18:30:33Z",
-            "lastGeneratedCommit": "6e5b74e4f8194149542348a40881a5d792a59a0e",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/dialogflow/v2"
             ],
@@ -1356,7 +1359,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-10T18:34:30Z",
-            "lastGeneratedCommit": "aee4464e15a44884a98ad737a007918a95764c93",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/dialogflow/v2beta1"
             ],
@@ -1366,12 +1369,12 @@
         },
         {
             "id": "Google.Cloud.DiscoveryEngine.V1",
-            "currentVersion": "1.9.0",
+            "currentVersion": "1.10.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-28T07:31:53.240893179Z",
-            "lastGeneratedCommit": "1791a77dfb0580ae2bbde3840105d2096968cc13",
-            "lastReleasedCommit": "1791a77dfb0580ae2bbde3840105d2096968cc13",
+            "releaseTimestamp": "2025-09-16T08:09:53.734292354Z",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
+            "lastReleasedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/discoveryengine/v1"
             ],
@@ -1381,12 +1384,12 @@
         },
         {
             "id": "Google.Cloud.DiscoveryEngine.V1Beta",
-            "currentVersion": "1.0.0-beta19",
+            "currentVersion": "1.0.0-beta20",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-28T07:32:54.791031616Z",
-            "lastGeneratedCommit": "f1923692a0bee2744249e9c4d4c85460e8ae9f0a",
-            "lastReleasedCommit": "f1923692a0bee2744249e9c4d4c85460e8ae9f0a",
+            "releaseTimestamp": "2025-09-16T08:11:39.650461590Z",
+            "lastGeneratedCommit": "0ef98bcac4467753c04fae34ae1fa15ed96e88c1",
+            "lastReleasedCommit": "0ef98bcac4467753c04fae34ae1fa15ed96e88c1",
             "apiPaths": [
                 "google/cloud/discoveryengine/v1beta"
             ],
@@ -1396,12 +1399,12 @@
         },
         {
             "id": "Google.Cloud.Dlp.V2",
-            "currentVersion": "4.19.0",
+            "currentVersion": "4.20.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-06-25T07:35:36.738629463Z",
-            "lastGeneratedCommit": "e1f739c24fb72d32aad63f636ca377b8db31622f",
-            "lastReleasedCommit": "8ee3aad1fd2f2376373a030cafc61b3e9788e48a",
+            "releaseTimestamp": "2025-09-16T08:12:40.986922971Z",
+            "lastGeneratedCommit": "2585041b27d424ed4496d163671a95a7e1af4c31",
+            "lastReleasedCommit": "2585041b27d424ed4496d163671a95a7e1af4c31",
             "apiPaths": [
                 "google/privacy/dlp/v2"
             ],
@@ -1415,7 +1418,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-19T10:18:56.385020243Z",
-            "lastGeneratedCommit": "6429996ce986ef871bcfbb5d7389ed5efebe803b",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "lastReleasedCommit": "6429996ce986ef871bcfbb5d7389ed5efebe803b",
             "apiPaths": [
                 "google/cloud/documentai/v1"
@@ -1429,7 +1432,7 @@
             "currentVersion": "2.0.0-beta26",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "lastGeneratedCommit": "8dab79f366047de6a32cfc45f80123089138554e",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/documentai/v1beta3"
             ],
@@ -1443,7 +1446,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:34:18Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/domains/v1"
             ],
@@ -1457,7 +1460,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:00:32Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/domains/v1beta1"
             ],
@@ -1471,7 +1474,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-07-08T16:38:20Z",
-            "lastGeneratedCommit": "1472ceabecd9e6acbcd8dd8f75f0f4335c36e16c",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/edgenetwork/v1"
             ],
@@ -1499,7 +1502,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T05:04:17Z",
-            "lastGeneratedCommit": "2e1c38ddaa402303b9c1381f5f9ba5a9ced4a51c",
+            "lastGeneratedCommit": "82465e8a6494cff3c04443fe7ae5487a67215a76",
             "apiPaths": [
                 "google/devtools/clouderrorreporting/v1beta1"
             ],
@@ -1513,7 +1516,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T06:56:20Z",
-            "lastGeneratedCommit": "2dc21fecf8709ee1e7937e8be3a9a136a1fdb613",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/essentialcontacts/v1"
             ],
@@ -1527,7 +1530,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-30T16:54:24Z",
-            "lastGeneratedCommit": "5d0c7bf00477b653d4c79718b38e95e5a90768d8",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/eventarc/publishing/v1"
             ],
@@ -1537,11 +1540,12 @@
         },
         {
             "id": "Google.Cloud.Eventarc.V1",
-            "currentVersion": "2.6.0",
+            "currentVersion": "2.7.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2024-10-29T16:54:23Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "releaseTimestamp": "2025-09-16T08:14:54.277129421Z",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
+            "lastReleasedCommit": "dfce92d6cc82c6dc133a6974b04e827e9fa4511c",
             "apiPaths": [
                 "google/cloud/eventarc/v1"
             ],
@@ -1555,7 +1559,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-10T18:26:34Z",
-            "lastGeneratedCommit": "607b7624f5d22202c601331465eb053833b4bf99",
+            "lastGeneratedCommit": "d4a9eb5869a1698d8887a68dd17e5bda9ec802d3",
             "apiPaths": [
                 "google/cloud/filestore/v1"
             ],
@@ -1584,7 +1588,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-08-13T16:06:20Z",
-            "lastGeneratedCommit": "c98457cd51f80e56daf7de102ed8d4c347ada663",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/functions/v1"
             ],
@@ -1598,7 +1602,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-08-13T16:04:17Z",
-            "lastGeneratedCommit": "a31d216ae702a184b5b00bdece3775177dfb2cf7",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/functions/v2"
             ],
@@ -1612,7 +1616,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-08-13T16:06:11Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/functions/v2beta"
             ],
@@ -1626,7 +1630,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T06:58:17Z",
-            "lastGeneratedCommit": "dfe85eea9a7a14e220563ecbeef0517d592883ac",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/gsuiteaddons/v1"
             ],
@@ -1655,7 +1659,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-15T20:23:10.174484021Z",
-            "lastGeneratedCommit": "8a3ddf03e414a88ce9f23e3edeca825e1c63fa2d",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "8a3ddf03e414a88ce9f23e3edeca825e1c63fa2d",
             "apiPaths": [
                 "google/cloud/gkebackup/v1"
@@ -1670,7 +1674,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-12-05T19:00:31Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/gkeconnect/gateway/v1"
             ],
@@ -1680,11 +1684,12 @@
         },
         {
             "id": "Google.Cloud.GkeHub.V1Beta1",
-            "currentVersion": "2.0.0-beta07",
+            "currentVersion": "2.0.0-beta08",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2024-05-14T07:26:19Z",
-            "lastGeneratedCommit": "bab01b38ef7a0f3a756d38862d37e4380ff85753",
+            "releaseTimestamp": "2025-09-16T08:16:56.341437673Z",
+            "lastGeneratedCommit": "780e61218fe286ed17026ce9e3672d1998389b05",
+            "lastReleasedCommit": "780e61218fe286ed17026ce9e3672d1998389b05",
             "apiPaths": [
                 "google/cloud/gkehub/v1beta1"
             ],
@@ -1694,11 +1699,12 @@
         },
         {
             "id": "Google.Cloud.GkeHub.V1",
-            "currentVersion": "2.5.0",
+            "currentVersion": "2.6.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2024-05-14T07:10:16Z",
-            "lastGeneratedCommit": "2c21d712f77cd07a95f2b3647a0192d8c07e7e2e",
+            "releaseTimestamp": "2025-09-16T08:19:27.983054283Z",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
+            "lastReleasedCommit": "780e61218fe286ed17026ce9e3672d1998389b05",
             "apiPaths": [
                 "google/cloud/gkehub/v1"
             ],
@@ -1712,7 +1718,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-01-06T16:12:52Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/gkemulticloud/v1"
             ],
@@ -1782,7 +1788,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-14T17:20:24Z",
-            "lastGeneratedCommit": "361c4941ccff4b02f608a0c1af63dcb65a888358",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/iap/v1"
             ],
@@ -1796,7 +1802,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:08:27Z",
-            "lastGeneratedCommit": "e9a27322f4c81bf38c3ad49ad2758fcc1210ade2",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/ids/v1"
             ],
@@ -1820,12 +1826,12 @@
         },
         {
             "id": "Google.Cloud.Kms.V1",
-            "currentVersion": "3.18.0",
+            "currentVersion": "3.19.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-05-16T19:52:54.396461870Z",
-            "lastGeneratedCommit": "c6d7efa277aeac971f46988c48ca1f348b76f91f",
-            "lastReleasedCommit": "c6d7efa277aeac971f46988c48ca1f348b76f91f",
+            "releaseTimestamp": "2025-09-16T08:21:30.505366422Z",
+            "lastGeneratedCommit": "d4a9eb5869a1698d8887a68dd17e5bda9ec802d3",
+            "lastReleasedCommit": "f8146b4dbeb9588c84b15d656d4a8d212db41596",
             "apiPaths": [
                 "google/cloud/kms/v1"
             ],
@@ -1867,7 +1873,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T05:10:22Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/lifesciences/v2beta"
             ],
@@ -1953,7 +1959,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:06:21Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/managedidentities/v1"
             ],
@@ -1967,7 +1973,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-09T07:44:15.878074497Z",
-            "lastGeneratedCommit": "e5e971d3d2f772b055775dfa11c435970ddbf920",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "e5e971d3d2f772b055775dfa11c435970ddbf920",
             "apiPaths": [
                 "google/cloud/managedkafka/v1"
@@ -1982,7 +1988,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T05:00:36Z",
-            "lastGeneratedCommit": "dfe85eea9a7a14e220563ecbeef0517d592883ac",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/mediatranslation/v1beta1"
             ],
@@ -1996,7 +2002,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:02:29Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/memcache/v1"
             ],
@@ -2010,7 +2016,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:10:21Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/memcache/v1beta2"
             ],
@@ -2024,7 +2030,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-06T16:15:11.264659313Z",
-            "lastGeneratedCommit": "4554091fa6c5531842894a51d0a6b0fca756f8a8",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "4554091fa6c5531842894a51d0a6b0fca756f8a8",
             "apiPaths": [
                 "google/cloud/memorystore/v1"
@@ -2053,7 +2059,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-06-05T07:10:23Z",
-            "lastGeneratedCommit": "b367a65237aae649a1a2347cbd295153dae5ace8",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/metastore/v1"
             ],
@@ -2095,7 +2101,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-06-05T07:06:28Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/migrationcenter/v1"
             ],
@@ -2119,12 +2125,12 @@
         },
         {
             "id": "Google.Cloud.NetApp.V1",
-            "currentVersion": "1.10.0",
+            "currentVersion": "1.11.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-05-16T18:29:43.872676421Z",
-            "lastGeneratedCommit": "90c451942dbdb9361faadfc062580303a1460e8c",
-            "lastReleasedCommit": "90c451942dbdb9361faadfc062580303a1460e8c",
+            "releaseTimestamp": "2025-09-08T07:49:55.258445058Z",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
+            "lastReleasedCommit": "2dde7b25620984cd4c6deb8873e8311fa963aa92",
             "apiPaths": [
                 "google/cloud/netapp/v1"
             ],
@@ -2134,12 +2140,12 @@
         },
         {
             "id": "Google.Cloud.NetworkConnectivity.V1",
-            "currentVersion": "2.11.0",
+            "currentVersion": "2.12.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-22T08:01:50.504390070Z",
-            "lastGeneratedCommit": "deb6327efce102408fa665b99af3887b02b4b27c",
-            "lastReleasedCommit": "deb6327efce102408fa665b99af3887b02b4b27c",
+            "releaseTimestamp": "2025-09-08T07:50:32.583261086Z",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
+            "lastReleasedCommit": "a195f5bb74304d8f0f9138e9311301a2e8f40413",
             "apiPaths": [
                 "google/cloud/networkconnectivity/v1"
             ],
@@ -2153,7 +2159,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:06:17Z",
-            "lastGeneratedCommit": "deb6327efce102408fa665b99af3887b02b4b27c",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/networkconnectivity/v1alpha1"
             ],
@@ -2167,7 +2173,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-12T08:26:26.957375142Z",
-            "lastGeneratedCommit": "f4902d9b4168b4d1b162f5c5bcf149086579fa26",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "f4902d9b4168b4d1b162f5c5bcf149086579fa26",
             "apiPaths": [
                 "google/cloud/networkmanagement/v1"
@@ -2182,7 +2188,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:22:16Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/networksecurity/v1beta1"
             ],
@@ -2196,7 +2202,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-09T07:46:11.673208691Z",
-            "lastGeneratedCommit": "6fde4a5ed2c1cb0ff04b41b770fa751a9f51b6f2",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "6fde4a5ed2c1cb0ff04b41b770fa751a9f51b6f2",
             "apiPaths": [
                 "google/cloud/networkservices/v1"
@@ -2211,7 +2217,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:10:35Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/notebooks/v1"
             ],
@@ -2225,7 +2231,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:12:30Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/notebooks/v1beta1"
             ],
@@ -2239,7 +2245,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:08:20Z",
-            "lastGeneratedCommit": "d41317895717b9ebc3b04d42cafbb0eaef080329",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/notebooks/v2"
             ],
@@ -2253,7 +2259,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:14:26Z",
-            "lastGeneratedCommit": "f410c8cf3741a4358c2061774dd18f11e10b4326",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/optimization/v1"
             ],
@@ -2267,7 +2273,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-14T17:24:26Z",
-            "lastGeneratedCommit": "4426010702cf47856dce3356755ed0b7860bd6c5",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/oracledatabase/v1"
             ],
@@ -2281,7 +2287,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-09-16T16:34:31Z",
-            "lastGeneratedCommit": "61ae8702c665036c3c49cb99dd538ee76beadc9f",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/orchestration/airflow/service/v1"
             ],
@@ -2295,7 +2301,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-03-27T04:50:17Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/orgpolicy/v1"
             ],
@@ -2309,7 +2315,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-23T17:06:29Z",
-            "lastGeneratedCommit": "c759e924aa786f3df0e64499daf97d46a27edb31",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/orgpolicy/v2"
             ],
@@ -2323,7 +2329,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-12T08:27:24.277205215Z",
-            "lastGeneratedCommit": "eef0d65ed2dcf69de78bd773478d0de7436a4bc7",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "eef0d65ed2dcf69de78bd773478d0de7436a4bc7",
             "apiPaths": [
                 "google/cloud/osconfig/v1"
@@ -2366,7 +2372,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:18:19Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/oslogin/v1"
             ],
@@ -2394,7 +2400,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-02-18T17:36:25Z",
-            "lastGeneratedCommit": "1de7d6fbed8f10ea52bd7c557f68e9410a265212",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/parallelstore/v1"
             ],
@@ -2422,7 +2428,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-06-25T07:40:11.118548987Z",
-            "lastGeneratedCommit": "09243fddedfbaa8119be04f7fb8427e054c10f94",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "09243fddedfbaa8119be04f7fb8427e054c10f94",
             "apiPaths": [
                 "google/cloud/parametermanager/v1"
@@ -2437,7 +2443,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T05:04:18Z",
-            "lastGeneratedCommit": "7a886af8167e43fda34566f7ecaea097b86bf587",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/phishingprotection/v1beta1"
             ],
@@ -2451,7 +2457,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-22T08:03:49.413659164Z",
-            "lastGeneratedCommit": "c83041768ca4d9a37bb894800b0c4b7db8dc2186",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "29c240bcc463751f6224deb048f3332bddf4c3ef",
             "apiPaths": [
                 "google/cloud/policysimulator/v1"
@@ -2466,7 +2472,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:40:16Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/policytroubleshooter/iam/v3"
             ],
@@ -2480,7 +2486,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:32:46Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/policytroubleshooter/v1"
             ],
@@ -2494,7 +2500,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T05:02:22Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/privatecatalog/v1beta1"
             ],
@@ -2508,7 +2514,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-04T18:50:47.873527187Z",
-            "lastGeneratedCommit": "fb0d2d75cadbe06b2ab06baf7239f279d907fc7c",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "fb0d2d75cadbe06b2ab06baf7239f279d907fc7c",
             "apiPaths": [
                 "google/cloud/privilegedaccessmanager/v1"
@@ -2552,7 +2558,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:38:27Z",
-            "lastGeneratedCommit": "9053365138af569f86f6f42d0024b239f948319d",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/rapidmigrationassessment/v1"
             ],
@@ -2566,7 +2572,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-17T18:46:29Z",
-            "lastGeneratedCommit": "f861f3d59fa7041ec746fab084b8f221a9e924ca",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/recaptchaenterprise/v1"
             ],
@@ -2580,7 +2586,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-09T15:54:49.795563949Z",
-            "lastGeneratedCommit": "efb9133940daa775831a1d15c291c43bff5878aa",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "lastReleasedCommit": "f3f5b9119e0864651fcae376645234cef98a682c",
             "apiPaths": [
                 "google/cloud/recaptchaenterprise/v1beta1"
@@ -2595,7 +2601,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T17:16:21Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/recommendationengine/v1beta1"
             ],
@@ -2609,7 +2615,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:46:30Z",
-            "lastGeneratedCommit": "d41317895717b9ebc3b04d42cafbb0eaef080329",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/recommender/v1"
             ],
@@ -2623,7 +2629,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-01-27T17:56:23Z",
-            "lastGeneratedCommit": "6d3ec8329f16c7cd89fa498a5f2f3d4ea1993e14",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/redis/cluster/v1"
             ],
@@ -2637,7 +2643,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:48:30Z",
-            "lastGeneratedCommit": "2b72355a434382565303399e6bcfc69281face5b",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/redis/v1"
             ],
@@ -2651,7 +2657,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:32:51Z",
-            "lastGeneratedCommit": "ae9fce65e6c2d692fc10936d942c78ff6e931f9e",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/redis/v1beta1"
             ],
@@ -2665,7 +2671,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:40:26Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/resourcemanager/v3"
             ],
@@ -2675,12 +2681,12 @@
         },
         {
             "id": "Google.Cloud.Retail.V2",
-            "currentVersion": "2.14.0",
+            "currentVersion": "2.15.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-06-25T07:41:39.093889458Z",
-            "lastGeneratedCommit": "d2835e84647d7477511f7ae48e36d4cfe7b04a10",
-            "lastReleasedCommit": "d2835e84647d7477511f7ae48e36d4cfe7b04a10",
+            "releaseTimestamp": "2025-09-08T07:53:19.224909082Z",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
+            "lastReleasedCommit": "1f0e1273a66a11004d9d8152ea31da3dec68adf8",
             "apiPaths": [
                 "google/cloud/retail/v2"
             ],
@@ -2709,7 +2715,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:36:16Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/scheduler/v1"
             ],
@@ -2752,7 +2758,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-23T17:04:28Z",
-            "lastGeneratedCommit": "4657bfafc269c507073f426376c241e07cdfe2f7",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/secrets/v1beta1"
             ],
@@ -2764,7 +2770,7 @@
             "id": "Google.Cloud.SecureSourceManager.V1",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "ae65549ccc7c2436c7da1ae4df6cfaf4421e2184",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/securesourcemanager/v1"
             ],
@@ -2778,7 +2784,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-09T07:49:14.140661304Z",
-            "lastGeneratedCommit": "cd7fed30706c129f2bca11d5b2ef18f4ad18a7ac",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "lastReleasedCommit": "cd7fed30706c129f2bca11d5b2ef18f4ad18a7ac",
             "apiPaths": [
                 "google/cloud/security/privateca/v1"
@@ -2793,7 +2799,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-12-05T18:52:23Z",
-            "lastGeneratedCommit": "443957ba92ed5f5445b688b1376397d66005f0df",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/security/publicca/v1"
             ],
@@ -2807,7 +2813,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T16:34:18Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/security/publicca/v1beta1"
             ],
@@ -2821,7 +2827,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T16:34:22Z",
-            "lastGeneratedCommit": "2f91d30c7b594bb6693d1306c60590267b54446a",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/securitycenter/settings/v1beta1"
             ],
@@ -2835,7 +2841,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-08-13T16:06:24Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/securitycenter/v1"
             ],
@@ -2849,7 +2855,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T16:36:17Z",
-            "lastGeneratedCommit": "696d1c237cabe450c4369e867d68c98e45aec4bf",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/securitycenter/v1p1beta1"
             ],
@@ -2859,12 +2865,12 @@
         },
         {
             "id": "Google.Cloud.SecurityCenter.V2",
-            "currentVersion": "1.2.0",
+            "currentVersion": "1.3.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-07T14:49:26.701697443Z",
-            "lastGeneratedCommit": "6e014b5581675cd43f37918550f9145df0c703dd",
-            "lastReleasedCommit": "6e014b5581675cd43f37918550f9145df0c703dd",
+            "releaseTimestamp": "2025-09-16T08:23:24.171657270Z",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
+            "lastReleasedCommit": "260e50c36f4532f7956f742b9eecc221e4eafb1b",
             "apiPaths": [
                 "google/cloud/securitycenter/v2"
             ],
@@ -2878,7 +2884,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-30T16:54:28Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/securitycentermanagement/v1"
             ],
@@ -2906,7 +2912,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-12-06T08:24:21Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/servicedirectory/v1"
             ],
@@ -2920,7 +2926,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T16:34:35Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/servicedirectory/v1beta1"
             ],
@@ -2934,7 +2940,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-12-06T08:04:29Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/servicehealth/v1"
             ],
@@ -2976,7 +2982,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:48:26Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/shell/v1"
             ],
@@ -3033,7 +3039,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-15T20:28:49.609552Z",
-            "lastGeneratedCommit": "ec171c429e545d06e05a609e837bba006dde67cf",
+            "lastGeneratedCommit": "712043cb82fad4a36c79e20f7e356beda059885d",
             "lastReleasedCommit": "e6c5fab81918fda9facc0ee0b1a470e94ba05f18",
             "apiPaths": [
                 "google/storage/control/v2"
@@ -3071,7 +3077,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-15T20:31:01.672932378Z",
-            "lastGeneratedCommit": "ac3603904988b26d41a85e09be9211c8fb16a822",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "lastReleasedCommit": "ac3603904988b26d41a85e09be9211c8fb16a822",
             "apiPaths": [
                 "google/cloud/storageinsights/v1"
@@ -3101,7 +3107,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-15T20:31:44.092101891Z",
-            "lastGeneratedCommit": "a4367c525875b05499c6ed14c2d694bc6b74c433",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "lastReleasedCommit": "84f04295240f8672d5784b9f2f2b459997bd316d",
             "apiPaths": [
                 "google/cloud/support/v2"
@@ -3116,7 +3122,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-01-06T18:10:22Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/talent/v4"
             ],
@@ -3130,7 +3136,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-01-06T18:04:33Z",
-            "lastGeneratedCommit": "acfcb5c24465dd88dd18767a9baa496a2c47fdb1",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/talent/v4beta1"
             ],
@@ -3144,7 +3150,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:42:21Z",
-            "lastGeneratedCommit": "b151ec2ae29c2c955c56784c0ce388b2d8c4a84c",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/tasks/v2"
             ],
@@ -3158,7 +3164,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T17:10:16Z",
-            "lastGeneratedCommit": "b151ec2ae29c2c955c56784c0ce388b2d8c4a84c",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/tasks/v2beta3"
             ],
@@ -3172,7 +3178,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:44:22Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/telcoautomation/v1"
             ],
@@ -3182,12 +3188,12 @@
         },
         {
             "id": "Google.Cloud.TextToSpeech.V1",
-            "currentVersion": "3.13.0",
+            "currentVersion": "3.15.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-28T07:52:19.061806136Z",
-            "lastGeneratedCommit": "a92cee399e0fc8afa2d460373b1085f543bc8d3f",
-            "lastReleasedCommit": "a92cee399e0fc8afa2d460373b1085f543bc8d3f",
+            "releaseTimestamp": "2025-09-24T07:56:04.878784217Z",
+            "lastGeneratedCommit": "b2cd70b6fe7faea000afabff7eebd5db5c4c23c8",
+            "lastReleasedCommit": "b2cd70b6fe7faea000afabff7eebd5db5c4c23c8",
             "apiPaths": [
                 "google/cloud/texttospeech/v1"
             ],
@@ -3197,12 +3203,12 @@
         },
         {
             "id": "Google.Cloud.TextToSpeech.V1Beta1",
-            "currentVersion": "2.0.0-beta13",
+            "currentVersion": "2.0.0-beta15",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-28T07:53:19.934289944Z",
-            "lastGeneratedCommit": "b738e78ed63effb7d199ed2d61c9e03291b6077f",
-            "lastReleasedCommit": "b738e78ed63effb7d199ed2d61c9e03291b6077f",
+            "releaseTimestamp": "2025-09-24T07:56:44.092686693Z",
+            "lastGeneratedCommit": "c82133531c783b62f4d7a755de57a742c6345852",
+            "lastReleasedCommit": "c82133531c783b62f4d7a755de57a742c6345852",
             "apiPaths": [
                 "google/cloud/texttospeech/v1beta1"
             ],
@@ -3216,7 +3222,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-01-13T18:12:27Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/tpu/v1"
             ],
@@ -3278,11 +3284,12 @@
         },
         {
             "id": "Google.Cloud.VMMigration.V1",
-            "currentVersion": "2.6.0",
+            "currentVersion": "2.7.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2024-05-14T07:50:26Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "releaseTimestamp": "2025-09-08T07:57:58.995120236Z",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
+            "lastReleasedCommit": "b7cf972f4c4b531c613050b47bdc333199b9bf50",
             "apiPaths": [
                 "google/cloud/vmmigration/v1"
             ],
@@ -3292,12 +3299,12 @@
         },
         {
             "id": "Google.Cloud.Video.LiveStream.V1",
-            "currentVersion": "1.9.0",
+            "currentVersion": "1.10.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-05-15T20:33:36.781880432Z",
-            "lastGeneratedCommit": "c18013694a22d051c77be488454d3762765f5a5e",
-            "lastReleasedCommit": "c18013694a22d051c77be488454d3762765f5a5e",
+            "releaseTimestamp": "2025-09-24T07:59:02.416773154Z",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
+            "lastReleasedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/video/livestream/v1"
             ],
@@ -3311,7 +3318,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-06-05T07:30:17Z",
-            "lastGeneratedCommit": "696d1c237cabe450c4369e867d68c98e45aec4bf",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/video/stitcher/v1"
             ],
@@ -3325,7 +3332,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-28T07:55:00.793743881Z",
-            "lastGeneratedCommit": "c58a1bb42ebe2297b1ce25d75f309475332437c6",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "lastReleasedCommit": "c58a1bb42ebe2297b1ce25d75f309475332437c6",
             "apiPaths": [
                 "google/cloud/video/transcoder/v1"
@@ -3340,7 +3347,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:48:34Z",
-            "lastGeneratedCommit": "71f4e44ee4bfac439ac69c40f0178e82cca4a2d0",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/videointelligence/v1"
             ],
@@ -3366,7 +3373,7 @@
             "id": "Google.Cloud.VisionAI.V1",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/visionai/v1"
             ],
@@ -3380,7 +3387,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-07-22T16:36:28Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/vmwareengine/v1"
             ],
@@ -3394,7 +3401,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:52:30Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/vpcaccess/v1"
             ],
@@ -3408,7 +3415,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-14T17:18:28Z",
-            "lastGeneratedCommit": "9173fc8a560da5129c724e24d232a29137f19c52",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/webrisk/v1"
             ],
@@ -3422,7 +3429,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T17:08:21Z",
-            "lastGeneratedCommit": "4fb8051d8ac2ed14d6f0766ec903b80cb706061d",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/webrisk/v1beta1"
             ],
@@ -3436,7 +3443,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T15:40:17Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/websecurityscanner/v1"
             ],
@@ -3470,7 +3477,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T15:42:17Z",
-            "lastGeneratedCommit": "dfe85eea9a7a14e220563ecbeef0517d592883ac",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/workflows/executions/v1"
             ],
@@ -3484,7 +3491,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T17:58:16Z",
-            "lastGeneratedCommit": "bab01b38ef7a0f3a756d38862d37e4380ff85753",
+            "lastGeneratedCommit": "222764e0853283787ba2203de6b3f57bf05b6bc5",
             "apiPaths": [
                 "google/cloud/workflows/executions/v1beta"
             ],
@@ -3498,7 +3505,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-24T16:22:35Z",
-            "lastGeneratedCommit": "d7db9c6f0c5a52efda18e8cc3e3e8e6a67ee3b5c",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/workflows/v1"
             ],
@@ -3526,7 +3533,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T15:38:18Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/workstations/v1"
             ],
@@ -3894,12 +3901,12 @@
         },
         {
             "id": "Google.Cloud.Spanner",
-            "currentVersion": "5.1.0",
+            "currentVersion": "5.2.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "releaseTimestamp": "2025-06-17T21:25:21.762422506Z",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseTimestamp": "2025-09-17T17:33:08.115065887Z",
             "lastGeneratedCommit": "39c8072aee5d0df052b20db3d7ee74e3fb82aa14",
-            "lastReleasedCommit": "62babf26d128656ac94fcc73c415b5f9f85cfc45",
+            "lastReleasedCommit": "39c8072aee5d0df052b20db3d7ee74e3fb82aa14",
             "apiPaths": [
                 "google/spanner/admin/database/v1",
                 "google/spanner/admin/instance/v1",
@@ -3962,7 +3969,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-24T08:58:47Z",
-            "lastGeneratedCommit": "f84c6ceca37b57906efcb606527a40d4585ba860",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "apiPaths": [
                 "google/cloud/storagebatchoperations/v1"
             ],
@@ -4048,7 +4055,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-24T07:40:56Z",
-            "lastGeneratedCommit": "90926b6dcbc8511fb4c075732f08e9e6c9a17437",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/devicestreaming/v1"
             ],
@@ -4062,7 +4069,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-24T07:40:52Z",
-            "lastGeneratedCommit": "e3d58220eff89c7f52ade4828a6854a1f8366e1e",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/financialservices/v1"
             ],
@@ -4076,7 +4083,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-22T08:14:33.146029042Z",
-            "lastGeneratedCommit": "c4b0839af7bb3e72551cd07fa8f815b66cf1089b",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "c4b0839af7bb3e72551cd07fa8f815b66cf1089b",
             "apiPaths": [
                 "google/cloud/lustre/v1"
@@ -4121,7 +4128,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-04T18:55:22.144100443Z",
-            "lastGeneratedCommit": "71d04acb8cdb389b443a67253645558cacb44bf9",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "71d04acb8cdb389b443a67253645558cacb44bf9",
             "apiPaths": [
                 "google/cloud/modelarmor/v1"
@@ -4136,7 +4143,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-22T07:18:03.469553129Z",
-            "lastGeneratedCommit": "e82ef048ff8b890448686334fbb6a85452e2de06",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "lastReleasedCommit": "e82ef048ff8b890448686334fbb6a85452e2de06",
             "apiPaths": [
                 "google/cloud/dataform/v1"
@@ -4151,7 +4158,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-12T08:30:36.257066840Z",
-            "lastGeneratedCommit": "1dfb2b3934226758e72104cba6f34413a91df8a8",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "lastReleasedCommit": "1dfb2b3934226758e72104cba6f34413a91df8a8",
             "apiPaths": [
                 "google/cloud/support/v2beta"
@@ -4166,7 +4173,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-04T18:56:58.782387387Z",
-            "lastGeneratedCommit": "db658a1253bbd38df3802f603afc1f6a3fd62264",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "db658a1253bbd38df3802f603afc1f6a3fd62264",
             "apiPaths": [
                 "google/cloud/modelarmor/v1beta"
@@ -4227,7 +4234,7 @@
             "nextVersion": "1.0.0-beta01",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "546c3d43f1c7a0f5d532e9a1877797b734a68afd",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/configdelivery/v1beta"
             ],
@@ -4241,7 +4248,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-28T07:56:53.149296628Z",
-            "lastGeneratedCommit": "7c4d9e72e01e7edfc55b5aefa8a86643a5a9799b",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "7c4d9e72e01e7edfc55b5aefa8a86643a5a9799b",
             "apiPaths": [
                 "google/cloud/geminidataanalytics/v1beta"
@@ -4255,7 +4262,7 @@
             "nextVersion": "1.0.0-beta01",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "f59a69044c3f64af881f3cc9dcc9fb81ec97e6cf",
+            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
             "apiPaths": [
                 "google/cloud/configdelivery/v1"
             ],
@@ -4269,7 +4276,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-11T14:02:51.697273861Z",
-            "lastGeneratedCommit": "9510a3a5c2932c84616d4f03856bc0aa4826cc31",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "lastReleasedCommit": "9510a3a5c2932c84616d4f03856bc0aa4826cc31",
             "apiPaths": [
                 "google/cloud/maintenance/api/v1beta"
@@ -4283,7 +4290,7 @@
             "nextVersion": "1.0.0-beta01",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "fecd7d35f46753b45bf4519f6342495a181740c9",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/licensemanager/v1"
             ],
@@ -4317,7 +4324,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-04T18:58:46.995852514Z",
-            "lastGeneratedCommit": "09f2446e4a30d6d79dff93e14bbc992b855ebaaf",
+            "lastGeneratedCommit": "8e39c6b20ca8f8c3ae92823af9a1575fb3d86580",
             "lastReleasedCommit": "ef165499a81db6575c7a787817431c864b993bd4",
             "apiPaths": [
                 "google/shopping/merchant/conversions/v1"
@@ -4332,7 +4339,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T07:31:30.896215626Z",
-            "lastGeneratedCommit": "e64f292bd17863a1ffa003a241213e07968bd447",
+            "lastGeneratedCommit": "ebe9a7837924e9c302174d89ad63b24d0e9ce5a9",
             "lastReleasedCommit": "da8916b715b0ddc3f9592777ceaa63a2f9d1a4c7",
             "apiPaths": [
                 "google/shopping/merchant/datasources/v1"
@@ -4362,7 +4369,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-04T18:59:54.710158535Z",
-            "lastGeneratedCommit": "885e1cbba130a838183febdfa02d5a48fce17273",
+            "lastGeneratedCommit": "30b8ea1ee6f18e5d2feb3767ba833a40ddf1b3d6",
             "lastReleasedCommit": "cc9fc0f686d4a64838acfe27f195d917634bb09f",
             "apiPaths": [
                 "google/shopping/merchant/notifications/v1"
@@ -4377,7 +4384,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T07:32:47.720593395Z",
-            "lastGeneratedCommit": "9555af8837ea25052fdd66914f0f338fed266d65",
+            "lastGeneratedCommit": "f9f2e649d4f1764896e5e047c61eb62a403d1928",
             "lastReleasedCommit": "9452da59a1c55a58e6e1a95225cf261e6e7629c1",
             "apiPaths": [
                 "google/shopping/merchant/issueresolution/v1"
@@ -4392,7 +4399,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T07:33:25.836509873Z",
-            "lastGeneratedCommit": "e64f292bd17863a1ffa003a241213e07968bd447",
+            "lastGeneratedCommit": "cca1d3b238743f11f779697a206e227799fd2b9f",
             "lastReleasedCommit": "82e21d0767ab2e3b84b9de3e2aa0e90535125543",
             "apiPaths": [
                 "google/shopping/merchant/lfp/v1"
@@ -4407,7 +4414,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T07:34:17.643371155Z",
-            "lastGeneratedCommit": "1375968d6f59a2bd54378198dbadfc417fb55672",
+            "lastGeneratedCommit": "f8776fec04e336527ba7279d960105533a1c4e21",
             "lastReleasedCommit": "32258785e429b3a6ea357ba8cd850b024b5363a9",
             "apiPaths": [
                 "google/shopping/merchant/quota/v1"
@@ -4418,12 +4425,12 @@
         },
         {
             "id": "Google.Shopping.Merchant.Accounts.V1",
-            "currentVersion": "1.0.0",
+            "currentVersion": "1.1.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-08-05T17:03:52.703506600Z",
-            "lastGeneratedCommit": "c4c5ad711c35b75841b39f87a63410c88f37599d",
-            "lastReleasedCommit": "d1c0c033f7cdc9a3540ed7eafc7ba096fe56cba5",
+            "releaseTimestamp": "2025-09-03T09:05:41.464091246Z",
+            "lastGeneratedCommit": "734d14b5e47e0da00233c061f363ce0ff3f03447",
+            "lastReleasedCommit": "c4c5ad711c35b75841b39f87a63410c88f37599d",
             "apiPaths": [
                 "google/shopping/merchant/accounts/v1"
             ],
@@ -4437,7 +4444,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T17:05:14.238664508Z",
-            "lastGeneratedCommit": "e64f292bd17863a1ffa003a241213e07968bd447",
+            "lastGeneratedCommit": "5dac8e9108bbd658e0ed4402c40d79e60f78a1f5",
             "lastReleasedCommit": "438200a688c81b759c38747423079c2e1fab9dd9",
             "apiPaths": [
                 "google/shopping/merchant/ordertracking/v1"
@@ -4452,7 +4459,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T17:05:48.401575314Z",
-            "lastGeneratedCommit": "e64f292bd17863a1ffa003a241213e07968bd447",
+            "lastGeneratedCommit": "68bc915cb97cdd13347215377f2ca997dff245ad",
             "lastReleasedCommit": "e14e0bf384fdb087cf38d60252fb5c87b949ffaf",
             "apiPaths": [
                 "google/shopping/merchant/products/v1"
@@ -4467,7 +4474,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T17:07:21.861999852Z",
-            "lastGeneratedCommit": "e64f292bd17863a1ffa003a241213e07968bd447",
+            "lastGeneratedCommit": "ebe9a7837924e9c302174d89ad63b24d0e9ce5a9",
             "lastReleasedCommit": "a3bdabe06a6814daefb532979b0b0cc65e362479",
             "apiPaths": [
                 "google/shopping/merchant/promotions/v1"
@@ -4482,7 +4489,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T17:07:55.369623304Z",
-            "lastGeneratedCommit": "e64f292bd17863a1ffa003a241213e07968bd447",
+            "lastGeneratedCommit": "f9196cda6cfc8678e53ed7822125b7e37043821d",
             "lastReleasedCommit": "daaa0a7e56b20b97835ac1bbcd5f5a83eb087f79",
             "apiPaths": [
                 "google/shopping/merchant/reports/v1"
@@ -4497,7 +4504,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-12T08:31:30.846770785Z",
-            "lastGeneratedCommit": "67fe1ece997ef298d8d86b026195ea2fd588c538",
+            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
             "lastReleasedCommit": "67fe1ece997ef298d8d86b026195ea2fd588c538",
             "apiPaths": [
                 "google/cloud/saasplatform/saasservicemgmt/v1beta1"
@@ -4508,15 +4515,58 @@
         },
         {
             "id": "Google.Cloud.CloudSecurityCompliance.V1",
-            "nextVersion": "1.0.0-beta01",
+            "currentVersion": "1.0.0-beta02",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "1765b559c42386788ff0c6412491277b4791107a",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseTimestamp": "2025-09-24T08:02:13.433503986Z",
+            "lastGeneratedCommit": "e9078581209139d142aad60322b6e09f565eae41",
+            "lastReleasedCommit": "e9078581209139d142aad60322b6e09f565eae41",
             "apiPaths": [
                 "google/cloud/cloudsecuritycompliance/v1"
             ],
             "sourcePaths": [
                 "apis/Google.Cloud.CloudSecurityCompliance.V1/Google.Cloud.CloudSecurityCompliance.V1"
+            ]
+        },
+        {
+            "id": "Google.Cloud.CapacityPlanner.V1Beta",
+            "nextVersion": "1.0.0-beta01",
+            "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
+            "lastGeneratedCommit": "d4a9eb5869a1698d8887a68dd17e5bda9ec802d3",
+            "apiPaths": [
+                "google/cloud/capacityplanner/v1beta"
+            ],
+            "sourcePaths": [
+                "apis/Google.Cloud.CapacityPlanner.V1Beta/Google.Cloud.CapacityPlanner.V1Beta"
+            ]
+        },
+        {
+            "id": "Google.Cloud.LocationFinder.V1",
+            "currentVersion": "1.0.0-beta01",
+            "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseTimestamp": "2025-09-16T16:40:44.860598614Z",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
+            "lastReleasedCommit": "60e1300d4a0b60b85b3df167ddc4062ac7cc4f44",
+            "apiPaths": [
+                "google/cloud/locationfinder/v1"
+            ],
+            "sourcePaths": [
+                "apis/Google.Cloud.LocationFinder.V1/Google.Cloud.LocationFinder.V1"
+            ]
+        },
+        {
+            "id": "Google.Cloud.GkeRecommender.V1",
+            "nextVersion": "1.0.0-beta01",
+            "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
+            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
+            "apiPaths": [
+                "google/cloud/gkerecommender/v1"
+            ],
+            "sourcePaths": [
+                "apis/Google.Cloud.GkeRecommender.V1/Google.Cloud.GkeRecommender.V1"
             ]
         }
     ],

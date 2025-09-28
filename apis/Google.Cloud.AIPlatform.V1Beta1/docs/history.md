@@ -1,5 +1,32 @@
 # Version history
 
+## Version 1.0.0-beta51, released 2025-09-16
+
+### New features
+
+- Add private_model_server_enabled to in Endpoint.proto
+
+## Version 1.0.0-beta50, released 2025-09-08
+
+### New features
+
+- PSC support for custom weights deploy
+- Tuning PreTunedModel API field
+
+### Documentation improvements
+
+- A comment for field `dedicated_endpoint_disabled` in message `.google.cloud.aiplatform.v1beta1.DeployRequest` is changed
+
+## Version 1.0.0-beta49, released 2025-09-03
+
+### New features
+
+- Add Validation mode in FunctionCallingConfig
+
+### Documentation improvements
+
+- Update the comment for ANY mode in FunctionCallingConfig.
+
 ## Version 1.0.0-beta48, released 2025-08-28
 
 ### New features
