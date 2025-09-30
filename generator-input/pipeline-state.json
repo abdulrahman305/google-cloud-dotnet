@@ -204,12 +204,12 @@
         },
         {
             "id": "Google.Cloud.AlloyDb.V1",
-            "currentVersion": "1.11.0",
+            "currentVersion": "1.12.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-06-25T07:22:56.123156626Z",
-            "lastGeneratedCommit": "1a096dccca5307a9a3747bc69e587f90b76a83d1",
-            "lastReleasedCommit": "1a096dccca5307a9a3747bc69e587f90b76a83d1",
+            "releaseTimestamp": "2025-09-29T07:50:11.761981568Z",
+            "lastGeneratedCommit": "fc225fe488a3fbf198bfeda4e67e8a3e691bbb3c",
+            "lastReleasedCommit": "fc225fe488a3fbf198bfeda4e67e8a3e691bbb3c",
             "apiPaths": [
                 "google/cloud/alloydb/v1"
             ],
@@ -219,12 +219,12 @@
         },
         {
             "id": "Google.Cloud.AlloyDb.V1Alpha",
-            "currentVersion": "1.0.0-alpha12",
+            "currentVersion": "1.0.0-alpha13",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-06-13T07:36:18.917665785Z",
-            "lastGeneratedCommit": "ed9b0f14f9c2252078f1c6e9847afad838776435",
-            "lastReleasedCommit": "ed9b0f14f9c2252078f1c6e9847afad838776435",
+            "releaseTimestamp": "2025-09-29T07:51:35.385105710Z",
+            "lastGeneratedCommit": "8cd780626041ecd4666974fd0c4099f1ad1ca01a",
+            "lastReleasedCommit": "8cd780626041ecd4666974fd0c4099f1ad1ca01a",
             "apiPaths": [
                 "google/cloud/alloydb/v1alpha"
             ],
@@ -234,12 +234,12 @@
         },
         {
             "id": "Google.Cloud.AlloyDb.V1Beta",
-            "currentVersion": "1.0.0-beta12",
+            "currentVersion": "1.0.0-beta13",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-06-25T07:24:25.765013924Z",
-            "lastGeneratedCommit": "530bb6229a7210b25c541cda88dfbae941bd38ee",
-            "lastReleasedCommit": "530bb6229a7210b25c541cda88dfbae941bd38ee",
+            "releaseTimestamp": "2025-09-29T07:53:52.808816290Z",
+            "lastGeneratedCommit": "48c3f2f1639caf5f99acd0490bc3da1abe6190cd",
+            "lastReleasedCommit": "48c3f2f1639caf5f99acd0490bc3da1abe6190cd",
             "apiPaths": [
                 "google/cloud/alloydb/v1beta"
             ],
@@ -263,12 +263,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1Beta1",
-            "currentVersion": "1.0.0-beta51",
+            "currentVersion": "1.0.0-beta52",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-09-16T07:52:51.388403238Z",
-            "lastGeneratedCommit": "329ace5e3712a2e37d6159d4dcd998d8c73f261e",
-            "lastReleasedCommit": "69e69bfcdc0453fffe0a6c301fed47f0935c70af",
+            "releaseTimestamp": "2025-09-29T07:56:20.207249881Z",
+            "lastGeneratedCommit": "374928c41762db87a25977ea3de13b62225bddb8",
+            "lastReleasedCommit": "374928c41762db87a25977ea3de13b62225bddb8",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
             ],
@@ -278,12 +278,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1",
-            "currentVersion": "3.46.0",
+            "currentVersion": "3.47.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-09-16T07:54:44.035336539Z",
-            "lastGeneratedCommit": "329ace5e3712a2e37d6159d4dcd998d8c73f261e",
-            "lastReleasedCommit": "69e69bfcdc0453fffe0a6c301fed47f0935c70af",
+            "releaseTimestamp": "2025-09-29T07:58:46.993452005Z",
+            "lastGeneratedCommit": "bc546b9a908e8f9405741f61d3e9569def1f933f",
+            "lastReleasedCommit": "bc546b9a908e8f9405741f61d3e9569def1f933f",
             "apiPaths": [
                 "google/cloud/aiplatform/v1"
             ],
@@ -297,7 +297,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-16T07:57:06.918863261Z",
-            "lastGeneratedCommit": "748ffeec58bab5d70a4dbc89e1b34702c97d12ef",
+            "lastGeneratedCommit": "4d3b3a5470a3514b71cedd0119d14d3b7d17db7e",
             "lastReleasedCommit": "748ffeec58bab5d70a4dbc89e1b34702c97d12ef",
             "apiPaths": [
                 "google/cloud/apihub/v1"
@@ -1025,12 +1025,12 @@
         },
         {
             "id": "Google.Cloud.Compute.V1",
-            "currentVersion": "3.16.0",
+            "currentVersion": "3.17.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-09-16T08:03:26.046507889Z",
-            "lastGeneratedCommit": "5caeec4d72173ea3f2772b1b67a5c3f9192a6d06",
-            "lastReleasedCommit": "57ddfb32ecf64ec42ef5afdf197feee2c9ef497b",
+            "releaseTimestamp": "2025-09-29T08:01:31.994297835Z",
+            "lastGeneratedCommit": "31b413bc4feb03f6849c718048c2b9998561b5fa",
+            "lastReleasedCommit": "31b413bc4feb03f6849c718048c2b9998561b5fa",
             "apiPaths": [
                 "google/cloud/compute/v1"
             ],
@@ -4324,7 +4324,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-04T18:58:46.995852514Z",
-            "lastGeneratedCommit": "8e39c6b20ca8f8c3ae92823af9a1575fb3d86580",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "ef165499a81db6575c7a787817431c864b993bd4",
             "apiPaths": [
                 "google/shopping/merchant/conversions/v1"
@@ -4339,7 +4339,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T07:31:30.896215626Z",
-            "lastGeneratedCommit": "ebe9a7837924e9c302174d89ad63b24d0e9ce5a9",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "da8916b715b0ddc3f9592777ceaa63a2f9d1a4c7",
             "apiPaths": [
                 "google/shopping/merchant/datasources/v1"
@@ -4354,7 +4354,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T07:32:09.432940601Z",
-            "lastGeneratedCommit": "e64f292bd17863a1ffa003a241213e07968bd447",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "bf4323361090d10caee451c97f157a21b9403d61",
             "apiPaths": [
                 "google/shopping/merchant/inventories/v1"
@@ -4369,7 +4369,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-04T18:59:54.710158535Z",
-            "lastGeneratedCommit": "30b8ea1ee6f18e5d2feb3767ba833a40ddf1b3d6",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "cc9fc0f686d4a64838acfe27f195d917634bb09f",
             "apiPaths": [
                 "google/shopping/merchant/notifications/v1"
@@ -4384,7 +4384,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T07:32:47.720593395Z",
-            "lastGeneratedCommit": "f9f2e649d4f1764896e5e047c61eb62a403d1928",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "9452da59a1c55a58e6e1a95225cf261e6e7629c1",
             "apiPaths": [
                 "google/shopping/merchant/issueresolution/v1"
@@ -4399,7 +4399,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T07:33:25.836509873Z",
-            "lastGeneratedCommit": "cca1d3b238743f11f779697a206e227799fd2b9f",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "82e21d0767ab2e3b84b9de3e2aa0e90535125543",
             "apiPaths": [
                 "google/shopping/merchant/lfp/v1"
@@ -4414,7 +4414,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T07:34:17.643371155Z",
-            "lastGeneratedCommit": "f8776fec04e336527ba7279d960105533a1c4e21",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "32258785e429b3a6ea357ba8cd850b024b5363a9",
             "apiPaths": [
                 "google/shopping/merchant/quota/v1"
@@ -4429,7 +4429,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-03T09:05:41.464091246Z",
-            "lastGeneratedCommit": "734d14b5e47e0da00233c061f363ce0ff3f03447",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "c4c5ad711c35b75841b39f87a63410c88f37599d",
             "apiPaths": [
                 "google/shopping/merchant/accounts/v1"
@@ -4444,7 +4444,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T17:05:14.238664508Z",
-            "lastGeneratedCommit": "5dac8e9108bbd658e0ed4402c40d79e60f78a1f5",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "438200a688c81b759c38747423079c2e1fab9dd9",
             "apiPaths": [
                 "google/shopping/merchant/ordertracking/v1"
@@ -4474,7 +4474,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T17:07:21.861999852Z",
-            "lastGeneratedCommit": "ebe9a7837924e9c302174d89ad63b24d0e9ce5a9",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "a3bdabe06a6814daefb532979b0b0cc65e362479",
             "apiPaths": [
                 "google/shopping/merchant/promotions/v1"
@@ -4489,7 +4489,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-05T17:07:55.369623304Z",
-            "lastGeneratedCommit": "f9196cda6cfc8678e53ed7822125b7e37043821d",
+            "lastGeneratedCommit": "5233b7c7ea09fe462f6f17f0839c0fa11eb5ea50",
             "lastReleasedCommit": "daaa0a7e56b20b97835ac1bbcd5f5a83eb087f79",
             "apiPaths": [
                 "google/shopping/merchant/reports/v1"
