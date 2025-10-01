@@ -267,7 +267,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-29T07:56:20.207249881Z",
-            "lastGeneratedCommit": "374928c41762db87a25977ea3de13b62225bddb8",
+            "lastGeneratedCommit": "3ecf1f04741305663178a74c94c4a81e8f237621",
             "lastReleasedCommit": "374928c41762db87a25977ea3de13b62225bddb8",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
@@ -282,7 +282,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-29T07:58:46.993452005Z",
-            "lastGeneratedCommit": "bc546b9a908e8f9405741f61d3e9569def1f933f",
+            "lastGeneratedCommit": "e78280f4648373caffb79fe532866728625db2fe",
             "lastReleasedCommit": "bc546b9a908e8f9405741f61d3e9569def1f933f",
             "apiPaths": [
                 "google/cloud/aiplatform/v1"
@@ -2543,7 +2543,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-07T14:21:42.126889550Z",
-            "lastGeneratedCommit": "898bcf49cc7b8dbc7e87bec08e67140f9fe379d6",
+            "lastGeneratedCommit": "a4ded737527f57207f37ba9e9c9b44732a0eb70f",
             "lastReleasedCommit": "ade5fe46aa5b7296887cd5aedbe8d35a243f6579",
             "apiPaths": [
                 "google/pubsub/v1"
@@ -3318,7 +3318,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-06-05T07:30:17Z",
-            "lastGeneratedCommit": "0a0dffc19bed400afdeec0f67b1726b6b23173fb",
+            "lastGeneratedCommit": "eab82ec804dfd76372ca369910ccd0766ee02e5c",
             "apiPaths": [
                 "google/cloud/video/stitcher/v1"
             ],
@@ -4533,7 +4533,7 @@
             "nextVersion": "1.0.0-beta01",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "d4a9eb5869a1698d8887a68dd17e5bda9ec802d3",
+            "lastGeneratedCommit": "299e120454e1af982f2d3a1017a6dd3a2c46b4ad",
             "apiPaths": [
                 "google/cloud/capacityplanner/v1beta"
             ],
