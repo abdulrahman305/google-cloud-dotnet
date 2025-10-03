@@ -1247,7 +1247,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-12T16:44:46Z",
-            "lastGeneratedCommit": "3edc94c2edddc3e5c44a1c9474c13feddb3062d1",
+            "lastGeneratedCommit": "3990e05b25dcaf7ba8d6baa4255d9b012a3a6a4f",
             "apiPaths": [
                 "google/datastore/v1"
             ],
@@ -1530,7 +1530,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-30T16:54:24Z",
-            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
+            "lastGeneratedCommit": "3d9a46d77218aa1cf200f732ff39960a0e3f3d9e",
             "apiPaths": [
                 "google/cloud/eventarc/publishing/v1"
             ],
@@ -3603,7 +3603,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-22T08:09:31.230550591Z",
-            "lastGeneratedCommit": "68d5196a529174df97c28c70622ffc1c3721815f",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "lastReleasedCommit": "68d5196a529174df97c28c70622ffc1c3721815f",
             "apiPaths": [
                 "google/maps/addressvalidation/v1"
@@ -3618,7 +3618,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-09-10T07:45:39Z",
-            "lastGeneratedCommit": "a535d4f6f84a3b5449c4f12550b7000f99ab63f7",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "apiPaths": [
                 "google/maps/areainsights/v1"
             ],
@@ -3632,7 +3632,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-11T13:59:32.970159284Z",
-            "lastGeneratedCommit": "302273adb3293bb504ecd83be8e1467511d5c779",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "lastReleasedCommit": "302273adb3293bb504ecd83be8e1467511d5c779",
             "apiPaths": [
                 "google/maps/fleetengine/delivery/v1"
@@ -3647,7 +3647,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-11T14:00:00.965637563Z",
-            "lastGeneratedCommit": "302273adb3293bb504ecd83be8e1467511d5c779",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "lastReleasedCommit": "302273adb3293bb504ecd83be8e1467511d5c779",
             "apiPaths": [
                 "google/maps/fleetengine/v1"
@@ -3662,7 +3662,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-01-14T08:28:27Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "apiPaths": [
                 "google/maps/mapsplatformdatasets/v1"
             ],
@@ -3676,7 +3676,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-15T08:06:08.740516254Z",
-            "lastGeneratedCommit": "f37bfb8159ea687e6c2a6b587f5cf1dada04b9f8",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "lastReleasedCommit": "6942862f40d7a65b8e65ec491605d90d48458eaa",
             "apiPaths": [
                 "google/maps/places/v1"
@@ -3691,7 +3691,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-09-26T08:24:24Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "apiPaths": [
                 "google/maps/routeoptimization/v1"
             ],
@@ -3705,7 +3705,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-01-14T08:30:25Z",
-            "lastGeneratedCommit": "c163d9caf0ab927a9ff072cf5adafc57a9e34330",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "apiPaths": [
                 "google/maps/routing/v2"
             ],
@@ -3905,7 +3905,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-17T17:33:08.115065887Z",
-            "lastGeneratedCommit": "39c8072aee5d0df052b20db3d7ee74e3fb82aa14",
+            "lastGeneratedCommit": "873119040f20c4c877d85456740079601b98d85d",
             "lastReleasedCommit": "39c8072aee5d0df052b20db3d7ee74e3fb82aa14",
             "apiPaths": [
                 "google/spanner/admin/database/v1",
@@ -4013,7 +4013,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-24T08:56:23Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "apiPaths": [
                 "google/maps/aerialview/v1"
             ],
@@ -4026,7 +4026,7 @@
             "nextVersion": "1.0.0-beta01",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "d55d74e062ae80af594497bf715c4b0b89993cb6",
+            "lastGeneratedCommit": "3fb120eb5c474ec18cddd88f8365e3c2c99289e5",
             "apiPaths": [
                 "google/maps/weather/v1"
             ],
