@@ -36,7 +36,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-20T07:25:06.175063153Z",
-            "lastGeneratedCommit": "2032c33b2df0fd3b2dc9bfcb6fc747e139a0d87d",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "lastReleasedCommit": "2032c33b2df0fd3b2dc9bfcb6fc747e139a0d87d",
             "apiPaths": [
                 "google/analytics/admin/v1alpha"
@@ -1816,7 +1816,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:10:30Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "apiPaths": [
                 "google/cloud/kms/inventory/v1"
             ],
@@ -1830,7 +1830,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-16T08:21:30.505366422Z",
-            "lastGeneratedCommit": "d4a9eb5869a1698d8887a68dd17e5bda9ec802d3",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "lastReleasedCommit": "f8146b4dbeb9588c84b15d656d4a8d212db41596",
             "apiPaths": [
                 "google/cloud/kms/v1"
@@ -1845,7 +1845,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:04:24Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "apiPaths": [
                 "google/cloud/language/v1"
             ],
@@ -1859,7 +1859,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-07-29T16:10:20Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "apiPaths": [
                 "google/cloud/language/v2"
             ],
@@ -2700,7 +2700,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-08T08:31:49.071169556Z",
-            "lastGeneratedCommit": "0998e045cf83a1307ceb158e3da304bdaff5bb3a",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "lastReleasedCommit": "0998e045cf83a1307ceb158e3da304bdaff5bb3a",
             "apiPaths": [
                 "google/cloud/run/v2"
@@ -2744,7 +2744,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T16:34:27Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "apiPaths": [
                 "google/cloud/secretmanager/v1beta2"
             ],
@@ -2996,7 +2996,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:38:23Z",
-            "lastGeneratedCommit": "b38aab7e8498d5503af7bd3c991ac0dd85c4a405",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "apiPaths": [
                 "google/cloud/speech/v1"
             ],
@@ -3010,7 +3010,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-04-14T17:22:29Z",
-            "lastGeneratedCommit": "b38aab7e8498d5503af7bd3c991ac0dd85c4a405",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "apiPaths": [
                 "google/cloud/speech/v1p1beta1"
             ],
@@ -3024,7 +3024,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-06-13T07:48:34.813248892Z",
-            "lastGeneratedCommit": "b38aab7e8498d5503af7bd3c991ac0dd85c4a405",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "lastReleasedCommit": "b38aab7e8498d5503af7bd3c991ac0dd85c4a405",
             "apiPaths": [
                 "google/cloud/speech/v2"
@@ -3192,7 +3192,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-24T07:56:04.878784217Z",
-            "lastGeneratedCommit": "b2cd70b6fe7faea000afabff7eebd5db5c4c23c8",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "lastReleasedCommit": "b2cd70b6fe7faea000afabff7eebd5db5c4c23c8",
             "apiPaths": [
                 "google/cloud/texttospeech/v1"
@@ -3207,7 +3207,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-24T07:56:44.092686693Z",
-            "lastGeneratedCommit": "c82133531c783b62f4d7a755de57a742c6345852",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "lastReleasedCommit": "c82133531c783b62f4d7a755de57a742c6345852",
             "apiPaths": [
                 "google/cloud/texttospeech/v1beta1"
@@ -3264,7 +3264,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-11-18T19:28:31Z",
-            "lastGeneratedCommit": "af2ae7d5b0d84cdfbdb6155d7982b8a0c681c223",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "apiPaths": [
                 "google/cloud/translate/v3"
             ],
@@ -4533,7 +4533,7 @@
             "nextVersion": "1.0.0-beta01",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "299e120454e1af982f2d3a1017a6dd3a2c46b4ad",
+            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "apiPaths": [
                 "google/cloud/capacityplanner/v1beta"
             ],
