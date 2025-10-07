@@ -1120,7 +1120,9 @@
         "BigQuery",
         "Reservation"
       ],
-      "dependencies": {},
+      "dependencies": {
+        "Google.Cloud.Iam.V1": "3.4.0"
+      },
       "generator": "micro",
       "protoPath": "google/cloud/bigquery/reservation/v1",
       "shortName": "bigqueryreservation",
@@ -6001,6 +6003,26 @@
       "projects": [
         "IntegrationTests",
         "LanguageCodeGenerator",
+        "Snippets",
+        "Tests"
+      ]
+    },
+    {
+      "id": "Google.Cloud.VertexAI.Extensions",
+      "version": "1.0.0-beta00",
+      "type": "other",
+      "metadataType": "INTEGRATION",
+      "description": "Vertex AI implementation of Microsoft.Extensions.AI.",
+      "tags": [
+        "Vertex AI",
+        "AI Extensions"
+      ],
+      "dependencies": {
+        "Microsoft.Extensions.AI": "default",
+        "Google.Cloud.AIPlatform.V1": "project"
+      },
+      "projects": [
+        "IntegrationTests",
         "Snippets",
         "Tests"
       ]
