@@ -16,14 +16,15 @@
 
 namespace GoogleCSharpSnippets
 {
-    // [START longrunning_generated_Operations_ListOperations_sync]
+    // [START bigqueryreservation_v1_generated_ReservationService_ListReservationGroups_sync_flattened_resourceNames]
     using Google.Api.Gax;
-    using Google.LongRunning;
+    using Google.Api.Gax.ResourceNames;
+    using Google.Cloud.BigQuery.Reservation.V1;
     using System;
 
-    public sealed partial class GeneratedOperationsClientSnippets
+    public sealed partial class GeneratedReservationServiceClientSnippets
     {
-        /// <summary>Snippet for ListOperations</summary>
+        /// <summary>Snippet for ListReservationGroups</summary>
         /// <remarks>
         /// This snippet has been automatically generated and should be regarded as a code template only.
         /// It will require modifications to work:
@@ -31,33 +32,28 @@ namespace GoogleCSharpSnippets
         /// - It may require specifying regional endpoints when creating the service client as shown in
         ///   https://cloud.google.com/dotnet/docs/reference/help/client-configuration#endpoint.
         /// </remarks>
-        public void ListOperationsRequestObject()
+        public void ListReservationGroupsResourceNames()
         {
             // Create client
-            OperationsClient operationsClient = OperationsClient.Create();
+            ReservationServiceClient reservationServiceClient = ReservationServiceClient.Create();
             // Initialize request argument(s)
-            ListOperationsRequest request = new ListOperationsRequest
-            {
-                Filter = "",
-                Name = "",
-                ReturnPartialSuccess = false,
-            };
+            LocationName parent = LocationName.FromProjectLocation("[PROJECT]", "[LOCATION]");
             // Make the request
-            PagedEnumerable<ListOperationsResponse, Operation> response = operationsClient.ListOperations(request);
+            PagedEnumerable<ListReservationGroupsResponse, ReservationGroup> response = reservationServiceClient.ListReservationGroups(parent);
 
             // Iterate over all response items, lazily performing RPCs as required
-            foreach (Operation item in response)
+            foreach (ReservationGroup item in response)
             {
                 // Do something with each item
                 Console.WriteLine(item);
             }
 
             // Or iterate over pages (of server-defined size), performing one RPC per page
-            foreach (ListOperationsResponse page in response.AsRawResponses())
+            foreach (ListReservationGroupsResponse page in response.AsRawResponses())
             {
                 // Do something with each page of items
                 Console.WriteLine("A page of results:");
-                foreach (Operation item in page)
+                foreach (ReservationGroup item in page)
                 {
                     // Do something with each item
                     Console.WriteLine(item);
@@ -66,10 +62,10 @@ namespace GoogleCSharpSnippets
 
             // Or retrieve a single page of known size (unless it's the final page), performing as many RPCs as required
             int pageSize = 10;
-            Page<Operation> singlePage = response.ReadPage(pageSize);
+            Page<ReservationGroup> singlePage = response.ReadPage(pageSize);
             // Do something with the page of items
             Console.WriteLine($"A page of {pageSize} results (unless it's the final page):");
-            foreach (Operation item in singlePage)
+            foreach (ReservationGroup item in singlePage)
             {
                 // Do something with each item
                 Console.WriteLine(item);
@@ -78,5 +74,5 @@ namespace GoogleCSharpSnippets
             string nextPageToken = singlePage.NextPageToken;
         }
     }
-    // [END longrunning_generated_Operations_ListOperations_sync]
+    // [END bigqueryreservation_v1_generated_ReservationService_ListReservationGroups_sync_flattened_resourceNames]
 }

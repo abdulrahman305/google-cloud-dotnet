@@ -16,14 +16,17 @@
 
 namespace GoogleCSharpSnippets
 {
-    // [START longrunning_generated_Operations_ListOperations_sync]
+    // [START bigqueryreservation_v1_generated_ReservationService_ListReservationGroups_async_flattened_resourceNames]
     using Google.Api.Gax;
-    using Google.LongRunning;
+    using Google.Api.Gax.ResourceNames;
+    using Google.Cloud.BigQuery.Reservation.V1;
     using System;
+    using System.Linq;
+    using System.Threading.Tasks;
 
-    public sealed partial class GeneratedOperationsClientSnippets
+    public sealed partial class GeneratedReservationServiceClientSnippets
     {
-        /// <summary>Snippet for ListOperations</summary>
+        /// <summary>Snippet for ListReservationGroupsAsync</summary>
         /// <remarks>
         /// This snippet has been automatically generated and should be regarded as a code template only.
         /// It will require modifications to work:
@@ -31,45 +34,40 @@ namespace GoogleCSharpSnippets
         /// - It may require specifying regional endpoints when creating the service client as shown in
         ///   https://cloud.google.com/dotnet/docs/reference/help/client-configuration#endpoint.
         /// </remarks>
-        public void ListOperationsRequestObject()
+        public async Task ListReservationGroupsResourceNamesAsync()
         {
             // Create client
-            OperationsClient operationsClient = OperationsClient.Create();
+            ReservationServiceClient reservationServiceClient = await ReservationServiceClient.CreateAsync();
             // Initialize request argument(s)
-            ListOperationsRequest request = new ListOperationsRequest
-            {
-                Filter = "",
-                Name = "",
-                ReturnPartialSuccess = false,
-            };
+            LocationName parent = LocationName.FromProjectLocation("[PROJECT]", "[LOCATION]");
             // Make the request
-            PagedEnumerable<ListOperationsResponse, Operation> response = operationsClient.ListOperations(request);
+            PagedAsyncEnumerable<ListReservationGroupsResponse, ReservationGroup> response = reservationServiceClient.ListReservationGroupsAsync(parent);
 
             // Iterate over all response items, lazily performing RPCs as required
-            foreach (Operation item in response)
+            await response.ForEachAsync((ReservationGroup item) =>
             {
                 // Do something with each item
                 Console.WriteLine(item);
-            }
+            });
 
             // Or iterate over pages (of server-defined size), performing one RPC per page
-            foreach (ListOperationsResponse page in response.AsRawResponses())
+            await response.AsRawResponses().ForEachAsync((ListReservationGroupsResponse page) =>
             {
                 // Do something with each page of items
                 Console.WriteLine("A page of results:");
-                foreach (Operation item in page)
+                foreach (ReservationGroup item in page)
                 {
                     // Do something with each item
                     Console.WriteLine(item);
                 }
-            }
+            });
 
             // Or retrieve a single page of known size (unless it's the final page), performing as many RPCs as required
             int pageSize = 10;
-            Page<Operation> singlePage = response.ReadPage(pageSize);
+            Page<ReservationGroup> singlePage = await response.ReadPageAsync(pageSize);
             // Do something with the page of items
             Console.WriteLine($"A page of {pageSize} results (unless it's the final page):");
-            foreach (Operation item in singlePage)
+            foreach (ReservationGroup item in singlePage)
             {
                 // Do something with each item
                 Console.WriteLine(item);
@@ -78,5 +76,5 @@ namespace GoogleCSharpSnippets
             string nextPageToken = singlePage.NextPageToken;
         }
     }
-    // [END longrunning_generated_Operations_ListOperations_sync]
+    // [END bigqueryreservation_v1_generated_ReservationService_ListReservationGroups_async_flattened_resourceNames]
 }
