@@ -267,7 +267,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-10-09T15:52:45.812273961Z",
-            "lastGeneratedCommit": "7f0c1e5d7a45598b92d2f08e02000f005b757194",
+            "lastGeneratedCommit": "bd4166c4286c811921664b073d1b49f60a16f92b",
             "lastReleasedCommit": "7f0c1e5d7a45598b92d2f08e02000f005b757194",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
@@ -608,7 +608,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-03T08:51:28.522300047Z",
-            "lastGeneratedCommit": "b49565973e491aad49612bafd5b473a3ead19a8b",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "lastReleasedCommit": "b49565973e491aad49612bafd5b473a3ead19a8b",
             "apiPaths": [
                 "google/cloud/bigquery/analyticshub/v1"
@@ -623,7 +623,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T18:04:26Z",
-            "lastGeneratedCommit": "222764e0853283787ba2203de6b3f57bf05b6bc5",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/cloud/bigquery/connection/v1"
             ],
@@ -637,7 +637,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-06-05T06:54:25Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/cloud/bigquery/dataexchange/v1beta1"
             ],
@@ -651,7 +651,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T17:52:33Z",
-            "lastGeneratedCommit": "d9a16f2feec3d0f03899e48007a02ce154fc919d",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/cloud/bigquery/datapolicies/v1"
             ],
@@ -665,7 +665,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-08T16:42:21Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/cloud/bigquery/datapolicies/v1beta1"
             ],
@@ -679,7 +679,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-08T22:10:31Z",
-            "lastGeneratedCommit": "12fc2f929e39688aa24ae6fc5e18db3315975a6e",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/cloud/bigquery/datatransfer/v1"
             ],
@@ -693,7 +693,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-03-26T19:06:18Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/cloud/bigquery/logging/v1"
             ],
@@ -707,7 +707,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-07-22T16:50:20Z",
-            "lastGeneratedCommit": "b026d4add49a691f1e018744ba0df3a6c6582867",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/cloud/bigquery/migration/v2"
             ],
@@ -721,7 +721,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-10-09T15:56:35.601424667Z",
-            "lastGeneratedCommit": "2193a2bfcecb92b92aad7a4d81baa428cafd7dfd",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "lastReleasedCommit": "2193a2bfcecb92b92aad7a4d81baa428cafd7dfd",
             "apiPaths": [
                 "google/cloud/bigquery/reservation/v1"
@@ -746,7 +746,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-10-14T16:10:26Z",
-            "lastGeneratedCommit": "222764e0853283787ba2203de6b3f57bf05b6bc5",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/cloud/bigquery/storage/v1"
             ],
@@ -1029,7 +1029,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-09-29T08:01:31.994297835Z",
-            "lastGeneratedCommit": "31b413bc4feb03f6849c718048c2b9998561b5fa",
+            "lastGeneratedCommit": "a23c95636dae08dfc8f536a766eb56e935ab5455",
             "lastReleasedCommit": "31b413bc4feb03f6849c718048c2b9998561b5fa",
             "apiPaths": [
                 "google/cloud/compute/v1"
@@ -1233,7 +1233,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-13T17:12:17Z",
-            "lastGeneratedCommit": "ef3062cf94aaa509a2f1bb1b6cfa022c8327f767",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/datastore/admin/v1"
             ],
@@ -1247,7 +1247,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-12T16:44:46Z",
-            "lastGeneratedCommit": "3990e05b25dcaf7ba8d6baa4255d9b012a3a6a4f",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/datastore/v1"
             ],
@@ -1504,7 +1504,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-09T05:04:17Z",
-            "lastGeneratedCommit": "82465e8a6494cff3c04443fe7ae5487a67215a76",
+            "lastGeneratedCommit": "9215671dbc32a2bb26be3fe0678f7942ca12b365",
             "apiPaths": [
                 "google/devtools/clouderrorreporting/v1beta1"
             ],
@@ -1575,7 +1575,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-08-04T18:49:26.557025062Z",
-            "lastGeneratedCommit": "3d37c58ad2a4e72ff051aa329eb30d9f658e1b66",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "lastReleasedCommit": "3d37c58ad2a4e72ff051aa329eb30d9f658e1b66",
             "apiPaths": [
                 "google/firestore/admin/v1"
@@ -2531,7 +2531,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:50:22Z",
-            "lastGeneratedCommit": "9415ba048aa587b1b2df2b96fc00aa009c831597",
+            "lastGeneratedCommit": "9215671dbc32a2bb26be3fe0678f7942ca12b365",
             "apiPaths": [
                 "google/devtools/cloudprofiler/v2"
             ],
@@ -2545,7 +2545,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-10-09T16:02:01.100060805Z",
-            "lastGeneratedCommit": "a4ded737527f57207f37ba9e9c9b44732a0eb70f",
+            "lastGeneratedCommit": "9da837b53027792b642ef5240527217f2863c505",
             "lastReleasedCommit": "a4ded737527f57207f37ba9e9c9b44732a0eb70f",
             "apiPaths": [
                 "google/pubsub/v1"
@@ -3041,7 +3041,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-15T20:28:49.609552Z",
-            "lastGeneratedCommit": "712043cb82fad4a36c79e20f7e356beda059885d",
+            "lastGeneratedCommit": "9da837b53027792b642ef5240527217f2863c505",
             "lastReleasedCommit": "e6c5fab81918fda9facc0ee0b1a470e94ba05f18",
             "apiPaths": [
                 "google/storage/control/v2"
@@ -3065,7 +3065,7 @@
             "id": "Google.Cloud.Storage.V2",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
-            "lastGeneratedCommit": "f2a87ff9836e96a7d37501128134ff34eb486d2d",
+            "lastGeneratedCommit": "9da837b53027792b642ef5240527217f2863c505",
             "apiPaths": [
                 "google/storage/v2"
             ],
@@ -3238,7 +3238,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:50:18Z",
-            "lastGeneratedCommit": "45dcfd96410bb75193cf33747070c38c19a297da",
+            "lastGeneratedCommit": "9215671dbc32a2bb26be3fe0678f7942ca12b365",
             "apiPaths": [
                 "google/devtools/cloudtrace/v1"
             ],
@@ -3252,7 +3252,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2024-05-14T07:46:26Z",
-            "lastGeneratedCommit": "90b9e07dda3c5897cd6ad00d43a44ea229e269b8",
+            "lastGeneratedCommit": "9215671dbc32a2bb26be3fe0678f7942ca12b365",
             "apiPaths": [
                 "google/devtools/cloudtrace/v2"
             ],
@@ -3908,7 +3908,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-10-09T16:18:57.834206168Z",
-            "lastGeneratedCommit": "873119040f20c4c877d85456740079601b98d85d",
+            "lastGeneratedCommit": "9da837b53027792b642ef5240527217f2863c505",
             "lastReleasedCommit": "873119040f20c4c877d85456740079601b98d85d",
             "apiPaths": [
                 "google/spanner/admin/database/v1",
@@ -3940,7 +3940,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-05-08T05:59:41.071646697Z",
-            "lastGeneratedCommit": "2a76e34df73dc25816d6fcd55d6f8f92de1dcaca",
+            "lastGeneratedCommit": "9da837b53027792b642ef5240527217f2863c505",
             "lastReleasedCommit": "079e5305050859d0e3a8c0768611283ee4863c07",
             "apiPaths": [
                 "google/devtools/containeranalysis/v1",
@@ -3957,7 +3957,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-03-12T16:42:22Z",
-            "lastGeneratedCommit": "4ecce6a53de84c9f3665ccf8faa8974c666287ee",
+            "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/firestore/v1"
             ],
@@ -4188,33 +4188,33 @@
         {
             "id": "docs-help",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED"
         },
         {
             "id": "docs-gax",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED"
         },
         {
             "id": "docs-google-apis",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED"
         },
         {
             "id": "docs-grpc",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED"
         },
         {
             "id": "docs-protobuf",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC"
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED"
         },
         {
             "id": "docs-common-proto",
             "currentVersion": "2.17.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
             "releaseTimestamp": "2025-05-30T16:27:43.914268243Z"
         },
         {
