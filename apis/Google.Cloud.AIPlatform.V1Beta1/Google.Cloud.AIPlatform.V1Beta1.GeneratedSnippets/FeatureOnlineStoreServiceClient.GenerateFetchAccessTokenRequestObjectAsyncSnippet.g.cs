@@ -16,14 +16,13 @@
 
 namespace GoogleCSharpSnippets
 {
-    // [START dlp_v2_generated_DlpService_RedactImage_async]
-    using Google.Api.Gax.ResourceNames;
-    using Google.Cloud.Dlp.V2;
+    // [START aiplatform_v1beta1_generated_FeatureOnlineStoreService_GenerateFetchAccessToken_async]
+    using Google.Cloud.AIPlatform.V1Beta1;
     using System.Threading.Tasks;
 
-    public sealed partial class GeneratedDlpServiceClientSnippets
+    public sealed partial class GeneratedFeatureOnlineStoreServiceClientSnippets
     {
-        /// <summary>Snippet for RedactImageAsync</summary>
+        /// <summary>Snippet for GenerateFetchAccessTokenAsync</summary>
         /// <remarks>
         /// This snippet has been automatically generated and should be regarded as a code template only.
         /// It will require modifications to work:
@@ -31,28 +30,18 @@ namespace GoogleCSharpSnippets
         /// - It may require specifying regional endpoints when creating the service client as shown in
         ///   https://cloud.google.com/dotnet/docs/reference/help/client-configuration#endpoint.
         /// </remarks>
-        public async Task RedactImageRequestObjectAsync()
+        public async Task GenerateFetchAccessTokenRequestObjectAsync()
         {
             // Create client
-            DlpServiceClient dlpServiceClient = await DlpServiceClient.CreateAsync();
+            FeatureOnlineStoreServiceClient featureOnlineStoreServiceClient = await FeatureOnlineStoreServiceClient.CreateAsync();
             // Initialize request argument(s)
-            RedactImageRequest request = new RedactImageRequest
+            GenerateFetchAccessTokenRequest request = new GenerateFetchAccessTokenRequest
             {
-                ParentAsProjectName = ProjectName.FromProject("[PROJECT]"),
-                InspectConfig = new InspectConfig(),
-                ImageRedactionConfigs =
-                {
-                    new RedactImageRequest.Types.ImageRedactionConfig(),
-                },
-                IncludeFindings = false,
-                ByteItem = new ByteContentItem(),
-                LocationId = "",
-                InspectTemplate = "",
-                DeidentifyTemplate = "",
+                FeatureViewAsFeatureViewName = FeatureViewName.FromProjectLocationFeatureOnlineStoreFeatureView("[PROJECT]", "[LOCATION]", "[FEATURE_ONLINE_STORE]", "[FEATURE_VIEW]"),
             };
             // Make the request
-            RedactImageResponse response = await dlpServiceClient.RedactImageAsync(request);
+            GenerateFetchAccessTokenResponse response = await featureOnlineStoreServiceClient.GenerateFetchAccessTokenAsync(request);
         }
     }
-    // [END dlp_v2_generated_DlpService_RedactImage_async]
+    // [END aiplatform_v1beta1_generated_FeatureOnlineStoreService_GenerateFetchAccessToken_async]
 }

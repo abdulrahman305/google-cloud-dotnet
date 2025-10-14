@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project Sdk="Microsoft.NET.Sdk">
+<!-- 
+  - Note: the use of ReplaceAll is basically because we can't easily generate this.
+  - ReplaceAll should only be used when absolutely necessary.
+  -->
+<Project Sdk="Microsoft.NET.Sdk" ReplaceAll="true">
   <PropertyGroup>
     <TargetFrameworks>netstandard2.1;net462</TargetFrameworks>
     <LangVersion>latest</LangVersion>
