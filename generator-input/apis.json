@@ -395,7 +395,7 @@
     },
     {
       "id": "Google.Cloud.AIPlatform.V1Beta1",
-      "version": "1.0.0-beta53",
+      "version": "1.0.0-beta54",
       "type": "grpc",
       "productName": "Vertex AI",
       "productUrl": "https://cloud.google.com/vertex-ai/docs",
@@ -419,7 +419,7 @@
     },
     {
       "id": "Google.Cloud.AIPlatform.V1",
-      "version": "3.48.0",
+      "version": "3.49.0",
       "type": "grpc",
       "productName": "Vertex AI",
       "productUrl": "https://cloud.google.com/vertex-ai/docs",
@@ -1652,7 +1652,7 @@
     },
     {
       "id": "Google.Cloud.Compute.V1",
-      "version": "3.17.0",
+      "version": "3.18.0",
       "type": "regapic",
       "productName": "Compute Engine",
       "productUrl": "https://cloud.google.com/compute",
@@ -2437,7 +2437,7 @@
       "protoPath": "google/privacy/dlp/v2",
       "productName": "Google Cloud Data Loss Prevention",
       "productUrl": "https://cloud.google.com/dlp/",
-      "version": "4.20.0",
+      "version": "4.21.0",
       "type": "grpc",
       "description": "Recommended Google client library to access the Google Data Loss Prevention API, which provides methods for detection of privacy-sensitive fragments in text, images, and Google Cloud Platform storage repositories.",
       "dependencies": {
@@ -5345,7 +5345,7 @@
       "protoPath": "google/spanner/admin/database/v1",
       "productName": "Google Cloud Spanner Database Administration",
       "productUrl": "https://cloud.google.com/spanner/",
-      "version": "5.3.0",
+      "version": "5.4.0",
       "commonResourcesConfig": "tweaks/Google.Cloud.Spanner.Common.V1/CommonResourcesConfig.json",
       "type": "grpc",
       "description": "Recommended Google client library to access the Google Cloud Spanner Database Admin API.",
@@ -5373,7 +5373,7 @@
       "protoPath": "google/spanner/admin/instance/v1",
       "productName": "Google Cloud Spanner Instance Administration",
       "productUrl": "https://cloud.google.com/spanner/",
-      "version": "5.3.0",
+      "version": "5.4.0",
       "commonResourcesConfig": "tweaks/Google.Cloud.Spanner.Common.V1/CommonResourcesConfig.json",
       "type": "grpc",
       "description": "Recommended Google client library to access the Google Cloud Spanner Instance Admin API.",
@@ -5398,7 +5398,7 @@
     {
       "id": "Google.Cloud.Spanner.Data",
       "targetFrameworks": "netstandard2.1;net462",
-      "version": "5.3.0",
+      "version": "5.4.0",
       "type": "other",
       "metadataType": "INTEGRATION",
       "shortName": "spanner",
@@ -5435,7 +5435,7 @@
     {
       "id": "Google.Cloud.Spanner.Common.V1",
       "type": "other",
-      "version": "5.3.0",
+      "version": "5.4.0",
       "description": "Common resource names used by all Spanner V1 APIs",
       "shortName": "spanner",
       "tags": [
@@ -5452,7 +5452,7 @@
       "protoPath": "google/spanner/v1",
       "productName": "Google Cloud Spanner",
       "productUrl": "https://cloud.google.com/spanner/",
-      "version": "5.3.0",
+      "version": "5.4.0",
       "commonResourcesConfig": "tweaks/Google.Cloud.Spanner.Common.V1/CommonResourcesConfig.json",
       "type": "grpc",
       "metadataType": "GAPIC_COMBO",
@@ -5548,7 +5548,7 @@
     },
     {
       "id": "Google.Cloud.Storage.Control.V2",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "type": "grpc",
       "productName": "Cloud Storage",
       "productUrl": "https://cloud.google.com/storage/docs/overview",

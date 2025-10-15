@@ -331,6 +331,7 @@ namespace Google.Cloud.Spanner.Data
                 // Avoid calling method multiple times in the loop.
                 var conversionOptions = ConversionOptions;
                 // Whatever we do with the parameters, we'll need them in a ListValue.
+                // This list may be empty in case no parameters have been specified.
                 var listValue = new ListValue
                 {
                     Values = { Parameters.Select(x => x.GetConfiguredSpannerDbType(conversionOptions).ToProtobufValue(x.GetValidatedValue())) }
@@ -341,9 +342,15 @@ namespace Google.Cloud.Spanner.Data
                     var w = new Mutation.Types.Write
                     {
                         Table = CommandTextBuilder.TargetTable,
-                        Columns = { Parameters.Select(x => x.SourceColumn ?? x.ParameterName) },
-                        Values = { listValue }
                     };
+                    // Only initialize the command's columns and values if there are parameters,
+                    // otherwise listValue is an empty list that we add to the list of values,
+                    // which fails even if the list of columns is empty.
+                    if (Parameters.Count > 0)
+                    {
+                        w.Columns.Add(Parameters.Select(x => x.SourceColumn ?? x.ParameterName));
+                        w.Values.Add(listValue);
+                    }
                     switch (CommandTextBuilder.SpannerCommandType)
                     {
                         case SpannerCommandType.Update:
@@ -356,14 +363,29 @@ namespace Google.Cloud.Spanner.Data
                             throw new ArgumentOutOfRangeException();
                     }
                 }
-                else
+                else // Is delete
                 {
-                    var w = new Mutation.Types.Delete
+                    // At most one of KeySet or Parameters must be set.
+                    // To delete a single row, Parameters can be set to contain a parameter for each column in the key.
+                    // Key set is a key set specification that allows deleting a set of rows with a single delete mutation.
+                    // An empty key set is allowed, the delete operation succeeds but it has no effect, no keys are specified
+                    // so no rows are deleted.
+                    // If none is set, the command is noop, but it won't fail.
+                    GaxPreconditions.CheckState(KeySet is null || Parameters.Count == 0,
+                        $"At most one of {nameof(KeySet)} or {nameof(Parameters)} most be set.");
+
+                    var d = new Mutation.Types.Delete
                     {
                         Table = CommandTextBuilder.TargetTable,
-                        KeySet = new V1.KeySet { Keys = { listValue } }
+                        KeySet = KeySet?.ToProtobuf(conversionOptions)
+                            // Only initialize the Keys in the KeySet if there are parameters,
+                            // otherwise listValue is an empty list that we add as the key to a row
+                            // which fails with invalid argument.
+                            ?? (Parameters.Count == 0
+                                ? new V1.KeySet()
+                                : new V1.KeySet { Keys = { listValue } })
                     };
-                    return new List<Mutation> { new Mutation { Delete = w } };
+                    return new List<Mutation> { new Mutation { Delete = d } };
                 }
             }
 
