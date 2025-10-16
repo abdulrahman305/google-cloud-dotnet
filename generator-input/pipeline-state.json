@@ -263,12 +263,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1Beta1",
-            "currentVersion": "1.0.0-beta54",
+            "currentVersion": "1.0.0-beta55",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-10-14T07:24:11.546969059Z",
-            "lastGeneratedCommit": "db61975fe3b3edabed32fda8056d08e79a93a59e",
-            "lastReleasedCommit": "db61975fe3b3edabed32fda8056d08e79a93a59e",
+            "releaseTimestamp": "2025-10-15T07:22:45.995467837Z",
+            "lastGeneratedCommit": "bd5f32d634d0dfd6a367c1ea707643ab99161d4e",
+            "lastReleasedCommit": "bd5f32d634d0dfd6a367c1ea707643ab99161d4e",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
             ],
@@ -278,12 +278,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1",
-            "currentVersion": "3.49.0",
+            "currentVersion": "3.50.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-10-14T07:25:53.468108363Z",
-            "lastGeneratedCommit": "eadc8746857a29a0060df90867e198fa15cb9211",
-            "lastReleasedCommit": "eadc8746857a29a0060df90867e198fa15cb9211",
+            "releaseTimestamp": "2025-10-15T07:24:28.329980174Z",
+            "lastGeneratedCommit": "7e90a532b8fc4a127ffda6932dc0af894c2ac3c8",
+            "lastReleasedCommit": "7e90a532b8fc4a127ffda6932dc0af894c2ac3c8",
             "apiPaths": [
                 "google/cloud/aiplatform/v1"
             ],
@@ -1029,7 +1029,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-10-14T07:29:07.398923977Z",
-            "lastGeneratedCommit": "a23c95636dae08dfc8f536a766eb56e935ab5455",
+            "lastGeneratedCommit": "9ee628bb8316d96cf2a9059d602a4c85136594bc",
             "lastReleasedCommit": "a23c95636dae08dfc8f536a766eb56e935ab5455",
             "apiPaths": [
                 "google/cloud/compute/v1"
@@ -3953,11 +3953,12 @@
         },
         {
             "id": "Google.Cloud.Firestore",
-            "currentVersion": "3.10.0",
+            "currentVersion": "3.11.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-03-12T16:42:22Z",
+            "releaseTimestamp": "2025-10-15T07:29:32.490374583Z",
             "lastGeneratedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
+            "lastReleasedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/firestore/v1"
             ],

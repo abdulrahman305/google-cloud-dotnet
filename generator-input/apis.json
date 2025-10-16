@@ -395,7 +395,7 @@
     },
     {
       "id": "Google.Cloud.AIPlatform.V1Beta1",
-      "version": "1.0.0-beta54",
+      "version": "1.0.0-beta55",
       "type": "grpc",
       "productName": "Vertex AI",
       "productUrl": "https://cloud.google.com/vertex-ai/docs",
@@ -419,7 +419,7 @@
     },
     {
       "id": "Google.Cloud.AIPlatform.V1",
-      "version": "3.49.0",
+      "version": "3.50.0",
       "type": "grpc",
       "productName": "Vertex AI",
       "productUrl": "https://cloud.google.com/vertex-ai/docs",
@@ -2755,7 +2755,7 @@
       "productName": "Firestore",
       "productUrl": "https://firebase.google.com/docs/firestore/",
       "listingDescription": "Firestore high-level library",
-      "version": "3.10.0",
+      "version": "3.11.0",
       "type": "other",
       "metadataType": "GAPIC_MANUAL",
       "description": "Recommended Google client library to access the Firestore API.",
@@ -2793,7 +2793,7 @@
       "productName": "Firestore",
       "productUrl": "https://firebase.google.com",
       "listingDescription": "Firestore low-level API access",
-      "version": "3.10.0",
+      "version": "3.11.0",
       "type": "grpc",
       "description": "Low-level Google client library to access the Firestore API. Users are recommended to use the Google.Cloud.Firestore package instead.",
       "tags": [
