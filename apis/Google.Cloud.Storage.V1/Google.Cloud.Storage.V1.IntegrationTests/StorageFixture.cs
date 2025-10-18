@@ -197,7 +197,7 @@ namespace Google.Cloud.Storage.V1.IntegrationTests
             {
                 return null;
             }
-            var credential = GoogleCredential.FromFile(file);
+            var credential = CredentialFactory.FromFile<ServiceAccountCredential>(file).ToGoogleCredential();
             return StorageClient.Create(credential);
         }
 
