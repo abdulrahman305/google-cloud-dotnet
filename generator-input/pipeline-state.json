@@ -75,11 +75,12 @@
         },
         {
             "id": "Google.Apps.Card.V1",
-            "currentVersion": "1.0.0-beta01",
+            "currentVersion": "1.0.0-beta02",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2024-04-17T16:56:21Z",
+            "releaseTimestamp": "2025-10-20T15:53:48.926320484Z",
             "lastGeneratedCommit": "fef700942b6a3ef8bbaf253306a0a652a1858552",
+            "lastReleasedCommit": "fef700942b6a3ef8bbaf253306a0a652a1858552",
             "apiPaths": [
                 "google/apps/card/v1"
             ],
@@ -263,12 +264,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1Beta1",
-            "currentVersion": "1.0.0-beta55",
+            "currentVersion": "1.0.0-beta56",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-10-15T07:22:45.995467837Z",
-            "lastGeneratedCommit": "bd5f32d634d0dfd6a367c1ea707643ab99161d4e",
-            "lastReleasedCommit": "bd5f32d634d0dfd6a367c1ea707643ab99161d4e",
+            "releaseTimestamp": "2025-10-20T15:54:49.414909926Z",
+            "lastGeneratedCommit": "c288189b43c016dd3cf1ec73ce3cadee8b732f07",
+            "lastReleasedCommit": "c288189b43c016dd3cf1ec73ce3cadee8b732f07",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
             ],
@@ -278,12 +279,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1",
-            "currentVersion": "3.50.0",
+            "currentVersion": "3.51.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-10-15T07:24:28.329980174Z",
-            "lastGeneratedCommit": "7e90a532b8fc4a127ffda6932dc0af894c2ac3c8",
-            "lastReleasedCommit": "7e90a532b8fc4a127ffda6932dc0af894c2ac3c8",
+            "releaseTimestamp": "2025-10-20T15:56:07.342867713Z",
+            "lastGeneratedCommit": "d9bfa3b37fe3be55e77bf06d625ab9a5000456c1",
+            "lastReleasedCommit": "d9bfa3b37fe3be55e77bf06d625ab9a5000456c1",
             "apiPaths": [
                 "google/cloud/aiplatform/v1"
             ],
@@ -1369,12 +1370,12 @@
         },
         {
             "id": "Google.Cloud.DiscoveryEngine.V1",
-            "currentVersion": "1.10.0",
+            "currentVersion": "1.11.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-09-16T08:09:53.734292354Z",
-            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
-            "lastReleasedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
+            "releaseTimestamp": "2025-10-20T15:58:51.342055193Z",
+            "lastGeneratedCommit": "b153a9181ce3a5e76009ab69988889cc91fa4530",
+            "lastReleasedCommit": "b153a9181ce3a5e76009ab69988889cc91fa4530",
             "apiPaths": [
                 "google/cloud/discoveryengine/v1"
             ],
@@ -2541,12 +2542,12 @@
         },
         {
             "id": "Google.Cloud.PubSub.V1",
-            "currentVersion": "3.28.0",
+            "currentVersion": "3.29.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-10-09T16:02:01.100060805Z",
+            "releaseTimestamp": "2025-10-20T16:00:48.670629677Z",
             "lastGeneratedCommit": "e9389923bc69ee18417b47085d09191224638282",
-            "lastReleasedCommit": "a4ded737527f57207f37ba9e9c9b44732a0eb70f",
+            "lastReleasedCommit": "e9389923bc69ee18417b47085d09191224638282",
             "apiPaths": [
                 "google/pubsub/v1"
             ],
@@ -3052,11 +3053,12 @@
         },
         {
             "id": "Google.Cloud.Storage.V1",
-            "currentVersion": "4.13.0",
+            "currentVersion": "4.14.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-04-25T08:34:24Z",
+            "releaseTimestamp": "2025-10-20T16:16:52.493030050Z",
             "lastGeneratedCommit": "7e795c44dae36500aeb8715536eedc3597c56e5e",
+            "lastReleasedCommit": "7e795c44dae36500aeb8715536eedc3597c56e5e",
             "sourcePaths": [
                 "apis/Google.Cloud.Storage.V1/Google.Cloud.Storage.V1"
             ]
@@ -3190,12 +3192,12 @@
         },
         {
             "id": "Google.Cloud.TextToSpeech.V1",
-            "currentVersion": "3.15.0",
+            "currentVersion": "3.16.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-09-24T07:56:04.878784217Z",
-            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
-            "lastReleasedCommit": "b2cd70b6fe7faea000afabff7eebd5db5c4c23c8",
+            "releaseTimestamp": "2025-10-20T16:48:06.019313035Z",
+            "lastGeneratedCommit": "59aac0a6555b532c36d18a9c30c557db9676c745",
+            "lastReleasedCommit": "59aac0a6555b532c36d18a9c30c557db9676c745",
             "apiPaths": [
                 "google/cloud/texttospeech/v1"
             ],
@@ -3205,12 +3207,12 @@
         },
         {
             "id": "Google.Cloud.TextToSpeech.V1Beta1",
-            "currentVersion": "2.0.0-beta15",
+            "currentVersion": "2.0.0-beta16",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-09-24T07:56:44.092686693Z",
-            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
-            "lastReleasedCommit": "c82133531c783b62f4d7a755de57a742c6345852",
+            "releaseTimestamp": "2025-10-20T16:48:57.152727916Z",
+            "lastGeneratedCommit": "50d4eb9c778c4cfe10c6cf407bb25c9ef0bab349",
+            "lastReleasedCommit": "50d4eb9c778c4cfe10c6cf407bb25c9ef0bab349",
             "apiPaths": [
                 "google/cloud/texttospeech/v1beta1"
             ],
@@ -3690,11 +3692,12 @@
         },
         {
             "id": "Google.Maps.RouteOptimization.V1",
-            "currentVersion": "1.2.0",
+            "currentVersion": "1.3.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2024-09-26T08:24:24Z",
+            "releaseTimestamp": "2025-10-20T16:50:14.600385304Z",
             "lastGeneratedCommit": "4c5d582e991ca0b60299343b44ecabe80eae1a69",
+            "lastReleasedCommit": "4c5d582e991ca0b60299343b44ecabe80eae1a69",
             "apiPaths": [
                 "google/maps/routeoptimization/v1"
             ],
