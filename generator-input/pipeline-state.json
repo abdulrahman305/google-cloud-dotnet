@@ -268,7 +268,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-10-20T15:54:49.414909926Z",
-            "lastGeneratedCommit": "c288189b43c016dd3cf1ec73ce3cadee8b732f07",
+            "lastGeneratedCommit": "bb4016fd288bb43023180403db6cf00e3427255f",
             "lastReleasedCommit": "c288189b43c016dd3cf1ec73ce3cadee8b732f07",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
@@ -1117,7 +1117,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-07-22T07:58:29.449593799Z",
-            "lastGeneratedCommit": "a53e1e09d16d311ff6064d237abed3ddd7a5d1fe",
+            "lastGeneratedCommit": "94ccdfe4519e0ba817bd33aa22eb9c64f88a6874",
             "lastReleasedCommit": "a640ed837f82299e6ec7b805d2c111add7704a2e",
             "apiPaths": [
                 "google/container/v1"
@@ -2276,7 +2276,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-10-21T16:37:59.647117253Z",
-            "lastGeneratedCommit": "55319b058f8a0e46bbeeff30e374e4b1f081f494",
+            "lastGeneratedCommit": "56cc4bfad84e2c2316159f0a860196acbd3fd043",
             "lastReleasedCommit": "55319b058f8a0e46bbeeff30e374e4b1f081f494",
             "apiPaths": [
                 "google/cloud/oracledatabase/v1"
@@ -3054,10 +3054,10 @@
         },
         {
             "id": "Google.Cloud.Storage.V1",
-            "currentVersion": "4.14.0",
+            "currentVersion": "4.13.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-10-21T16:39:31.539482715Z",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
+            "releaseTimestamp": "2025-04-25T08:34:24Z",
             "lastGeneratedCommit": "7e795c44dae36500aeb8715536eedc3597c56e5e",
             "lastReleasedCommit": "7e795c44dae36500aeb8715536eedc3597c56e5e",
             "sourcePaths": [
