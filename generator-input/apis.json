@@ -2,7 +2,7 @@
   "apis": [
     {
       "id": "Google.Ads.AdManager.V1",
-      "version": "1.0.0-beta02",
+      "version": "1.0.0-beta03",
       "type": "grpc",
       "productName": "Google Ad Manager",
       "productUrl": "https://developers.google.com/ad-manager/api/beta",
@@ -20,6 +20,23 @@
       "shortName": "admanager",
       "serviceConfigFile": "admanager_v1.yaml",
       "transport": "rest",
+      "restNumericEnums": true
+    },
+    {
+      "id": "Google.Ads.DataManager.V1",
+      "version": "1.0.0-beta00",
+      "type": "grpc",
+      "productName": "Ads Data Manager",
+      "productUrl": "https://developers.google.com/data-manager",
+      "description": "A unified ingestion API for data partners, agencies and advertisers to connect first-party data across Google advertising products.",
+      "tags": [],
+      "dependencies": {},
+      "generator": "micro",
+      "protoPath": "google/ads/datamanager/v1",
+      "includeCommonResourcesProto": true,
+      "shortName": "datamanager",
+      "serviceConfigFile": "datamanager_v1.yaml",
+      "transport": "grpc+rest",
       "restNumericEnums": true
     },
     {
@@ -395,7 +412,7 @@
     },
     {
       "id": "Google.Cloud.AIPlatform.V1Beta1",
-      "version": "1.0.0-beta56",
+      "version": "1.0.0-beta57",
       "type": "grpc",
       "productName": "Vertex AI",
       "productUrl": "https://cloud.google.com/vertex-ai/docs",
@@ -1842,7 +1859,7 @@
       "protoPath": "google/container/v1",
       "productName": "Google Kubernetes Engine",
       "productUrl": "https://cloud.google.com/kubernetes-engine/docs/reference/rest/",
-      "version": "3.35.0",
+      "version": "3.36.0",
       "type": "grpc",
       "description": "Recommended Google client library to access the Google Kubernetes Engine API, used for building and managing container based applications, powered by the open source Kubernetes technology.",
       "dependencies": {},
@@ -2367,7 +2384,7 @@
     },
     {
       "id": "Google.Cloud.Dialogflow.V2Beta1",
-      "version": "1.0.0-beta23",
+      "version": "1.0.0-beta24",
       "type": "grpc",
       "productName": "Google Cloud Dialogflow",
       "productUrl": "https://cloud.google.com/dialogflow-enterprise/",
@@ -6683,7 +6700,7 @@
     },
     {
       "id": "Google.Maps.Places.V1",
-      "version": "1.0.0-beta16",
+      "version": "1.0.0-beta17",
       "type": "grpc",
       "productName": "Places API",
       "productUrl": "https://developers.google.com/maps/documentation/places/web-service/",

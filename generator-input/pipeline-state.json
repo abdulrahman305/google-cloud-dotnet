@@ -3,12 +3,12 @@
     "libraries": [
         {
             "id": "Google.Ads.AdManager.V1",
-            "currentVersion": "1.0.0-beta02",
+            "currentVersion": "1.0.0-beta03",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-07T13:49:09.233253721Z",
-            "lastGeneratedCommit": "c1c2f3e01e494b6fa004ff543cec2a8d84120717",
-            "lastReleasedCommit": "1bc55112f708b1082ebb541f08e0454f2c78699f",
+            "releaseTimestamp": "2025-10-23T16:05:09.278119485Z",
+            "lastGeneratedCommit": "1615c5124db6840cc120d4e855105789e2691746",
+            "lastReleasedCommit": "1615c5124db6840cc120d4e855105789e2691746",
             "apiPaths": [
                 "google/ads/admanager/v1"
             ],
@@ -264,12 +264,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1Beta1",
-            "currentVersion": "1.0.0-beta56",
+            "currentVersion": "1.0.0-beta57",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-10-20T15:54:49.414909926Z",
+            "releaseTimestamp": "2025-10-23T16:06:24.799726887Z",
             "lastGeneratedCommit": "bb4016fd288bb43023180403db6cf00e3427255f",
-            "lastReleasedCommit": "c288189b43c016dd3cf1ec73ce3cadee8b732f07",
+            "lastReleasedCommit": "bb4016fd288bb43023180403db6cf00e3427255f",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
             ],
@@ -1113,12 +1113,12 @@
         },
         {
             "id": "Google.Cloud.Container.V1",
-            "currentVersion": "3.35.0",
+            "currentVersion": "3.36.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-07-22T07:58:29.449593799Z",
+            "releaseTimestamp": "2025-10-23T16:08:32.392942733Z",
             "lastGeneratedCommit": "94ccdfe4519e0ba817bd33aa22eb9c64f88a6874",
-            "lastReleasedCommit": "a640ed837f82299e6ec7b805d2c111add7704a2e",
+            "lastReleasedCommit": "94ccdfe4519e0ba817bd33aa22eb9c64f88a6874",
             "apiPaths": [
                 "google/container/v1"
             ],
@@ -1356,11 +1356,12 @@
         },
         {
             "id": "Google.Cloud.Dialogflow.V2Beta1",
-            "currentVersion": "1.0.0-beta23",
+            "currentVersion": "1.0.0-beta24",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-03-10T18:34:30Z",
-            "lastGeneratedCommit": "888ae95dd6125f754650d55410b8c117b618a268",
+            "releaseTimestamp": "2025-10-23T16:09:46.250618398Z",
+            "lastGeneratedCommit": "80a20813034835a900e0529eea3ccb142f5e19bd",
+            "lastReleasedCommit": "80a20813034835a900e0529eea3ccb142f5e19bd",
             "apiPaths": [
                 "google/cloud/dialogflow/v2beta1"
             ],
@@ -3679,12 +3680,12 @@
         },
         {
             "id": "Google.Maps.Places.V1",
-            "currentVersion": "1.0.0-beta16",
+            "currentVersion": "1.0.0-beta17",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-10-21T17:12:31.263251413Z",
-            "lastGeneratedCommit": "1b5c44879f3281d05731a0bf3fc0345ff4463eed",
-            "lastReleasedCommit": "1b5c44879f3281d05731a0bf3fc0345ff4463eed",
+            "releaseTimestamp": "2025-10-23T16:13:36.487624306Z",
+            "lastGeneratedCommit": "b61fb21bbac838de7f55cf2c60d371a47fc2799e",
+            "lastReleasedCommit": "b61fb21bbac838de7f55cf2c60d371a47fc2799e",
             "apiPaths": [
                 "google/maps/places/v1"
             ],
@@ -4587,6 +4588,18 @@
             "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
             "sourcePaths": [
                 "apis/Google.Cloud.VertexAI.Extensions/Google.Cloud.VertexAI.Extensions"
+            ]
+        },
+        {
+            "id": "Google.Ads.DataManager.V1",
+            "nextVersion": "1.0.0-beta01",
+            "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "apiPaths": [
+                "google/ads/datamanager/v1"
+            ],
+            "sourcePaths": [
+                "apis/Google.Ads.DataManager.V1/Google.Ads.DataManager.V1"
             ]
         }
     ],
