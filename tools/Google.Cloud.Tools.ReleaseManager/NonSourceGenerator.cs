@@ -114,7 +114,7 @@ internal sealed class NonSourceGenerator
         { "xunit.runner.visualstudio", DefaultVersionValue },
         { "Xunit.SkippableFact", DefaultVersionValue },
         { "NSubstitute", DefaultVersionValue },
-        { "System.Linq.Async", DefaultVersionValue },
+        { "System.Linq.AsyncEnumerable", DefaultVersionValue },
     };
 
     // Hard-coded versions for dependencies for production packages that can be updated arbitrarily, as their assets are all private.
@@ -295,11 +295,12 @@ internal sealed class NonSourceGenerator
                     // Note: this would normally be TestTargetFrameworks, but that appears to be broken in .NET 6. I don't know why.
                     new XElement("TargetFrameworks", new XAttribute("Condition", " '$(OS)' != 'Windows_NT' "), AnyDesktopFramework.Replace(testTargetFrameworks, "")),
                     new XElement("IsPackable", false),
+                    // $(NoWarn) allows Directory.Build.props in the API's root directory to add more entries.
                     // 1701, 1702 and 1705 are disabled by default.
                     // xUnit2004 prevents Assert.Equal(true, value) etc, preferring Assert.True and Assert.False, but
                     //   Assert.Equal is clearer (IMO) for comparing values rather than conditions.
                     // xUnit2013 prevents simple checks for the number of items in a collection
-                    new XElement("NoWarn", "1701;1702;1705;xUnit2004;xUnit2013")
+                    new XElement("NoWarn", "$(NoWarn);1701;1702;1705;xUnit2004;xUnit2013")
                 );
             var dependenciesElement = CreateDependenciesElement(projectName, dependencies, api.StructuredVersion, testProject: true);
             // Test service... it keeps on getting added by Visual Studio, so let's just include it everywhere.
@@ -702,11 +703,10 @@ internal sealed class NonSourceGenerator
         DeleteRelative(".repo-metadata.json");
         DeleteRelative(".repo-metadata.json");
 
-        DeleteProject(apiLayout.ProductionDirectory);
-        DeleteProject(apiLayout.UnitTestsDirectory);
-        DeleteProject(apiLayout.IntegrationTestsDirectory);
-        DeleteProject(apiLayout.GeneratedSnippetsDirectory);
-        DeleteProject(apiLayout.SnippetsDirectory);
+        foreach (var project in api.DeriveProjects())
+        {
+            DeleteProject(Path.Combine(apiLayout.SourceDirectory, project));
+        }
 
         void DeleteProject(string directory)
         {

@@ -1,5 +1,41 @@
 # Version history
 
+## Version 1.0.0-beta61, released 2025-11-05
+
+### New features
+
+- Add new fields `SUCCESSFULLY_DEPLOYED` and `FAILED_TO_DEPLOY` to `DeploymentStage`
+- Add order_by to list_events
+
+### Documentation improvements
+
+- A comment for field `filter` in message `.google.cloud.aiplatform.v1beta1.ListSessionsRequest` is changed
+
+## Version 1.0.0-beta60, released 2025-11-03
+
+### New features
+
+- Update dependencies
+
+## Version 1.0.0-beta59, released 2025-11-03
+
+### Bug fixes
+
+- An existing field `transfer_to_agent` is removed from message `.google.cloud.aiplatform.v1beta1.EventActions`
+
+### Documentation improvements
+
+- Remove comments for a non public feature
+- Fix idle_scaledown_period minimum from 3600 to 300 (5 minutes)
+
+## Version 1.0.0-beta58, released 2025-10-28
+
+### Bug fixes
+
+- Updating `bigtable_metadata` field name in `FeatureOnlineStore`
+- Updating `enableDirectBigtableAccess` field name in FeatureOnlineStore`
+- Updating `bigtable_metadata` field name in `FeatureView`
+
 ## Version 1.0.0-beta57, released 2025-10-23
 
 ### New features

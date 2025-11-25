@@ -45,6 +45,10 @@ namespace GoogleCSharpSnippets
                 {
                     new CreateAndConfigureAccountRequest.Types.AddAccountService(),
                 },
+                SetAlias =
+                {
+                    new CreateAndConfigureAccountRequest.Types.SetAliasForRelationship(),
+                },
             };
             // Make the request
             Account response = accountsServiceClient.CreateAndConfigureAccount(request);

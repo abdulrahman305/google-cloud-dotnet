@@ -5,6 +5,60 @@
   "protoPackage": "google.cloud.cloudsecuritycompliance.v1",
   "libraryPackage": "Google.Cloud.CloudSecurityCompliance.V1",
   "services": {
+    "Audit": {
+      "clients": {
+        "grpc": {
+          "libraryClient": "AuditClient",
+          "rpcs": {
+            "CreateFrameworkAudit": {
+              "methods": [
+                "CreateFrameworkAudit",
+                "CreateFrameworkAuditAsync"
+              ]
+            },
+            "GenerateFrameworkAuditScopeReport": {
+              "methods": [
+                "GenerateFrameworkAuditScopeReport",
+                "GenerateFrameworkAuditScopeReportAsync"
+              ]
+            },
+            "GetFrameworkAudit": {
+              "methods": [
+                "GetFrameworkAudit",
+                "GetFrameworkAuditAsync"
+              ]
+            },
+            "ListFrameworkAudits": {
+              "methods": [
+                "ListFrameworkAudits",
+                "ListFrameworkAuditsAsync"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "CmEnrollmentService": {
+      "clients": {
+        "grpc": {
+          "libraryClient": "CmEnrollmentServiceClient",
+          "rpcs": {
+            "CalculateEffectiveCmEnrollment": {
+              "methods": [
+                "CalculateEffectiveCmEnrollment",
+                "CalculateEffectiveCmEnrollmentAsync"
+              ]
+            },
+            "UpdateCmEnrollment": {
+              "methods": [
+                "UpdateCmEnrollment",
+                "UpdateCmEnrollmentAsync"
+              ]
+            }
+          }
+        }
+      }
+    },
     "Config": {
       "clients": {
         "grpc": {
@@ -113,6 +167,45 @@
               "methods": [
                 "ListFrameworkDeployments",
                 "ListFrameworkDeploymentsAsync"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Monitoring": {
+      "clients": {
+        "grpc": {
+          "libraryClient": "MonitoringClient",
+          "rpcs": {
+            "AggregateFrameworkComplianceReport": {
+              "methods": [
+                "AggregateFrameworkComplianceReport",
+                "AggregateFrameworkComplianceReportAsync"
+              ]
+            },
+            "FetchFrameworkComplianceReport": {
+              "methods": [
+                "FetchFrameworkComplianceReport",
+                "FetchFrameworkComplianceReportAsync"
+              ]
+            },
+            "ListControlComplianceSummaries": {
+              "methods": [
+                "ListControlComplianceSummaries",
+                "ListControlComplianceSummariesAsync"
+              ]
+            },
+            "ListFindingSummaries": {
+              "methods": [
+                "ListFindingSummaries",
+                "ListFindingSummariesAsync"
+              ]
+            },
+            "ListFrameworkComplianceSummaries": {
+              "methods": [
+                "ListFrameworkComplianceSummaries",
+                "ListFrameworkComplianceSummariesAsync"
               ]
             }
           }

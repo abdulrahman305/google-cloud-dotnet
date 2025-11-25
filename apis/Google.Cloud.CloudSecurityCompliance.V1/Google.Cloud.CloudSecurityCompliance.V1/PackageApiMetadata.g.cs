@@ -66,9 +66,12 @@ namespace Google.Cloud.CloudSecurityCompliance.V1
 
         private static scg::IEnumerable<gpr::FileDescriptor> GetFileDescriptors()
         {
+            yield return AuditReflection.Descriptor;
+            yield return CmEnrollmentServiceReflection.Descriptor;
             yield return CommonReflection.Descriptor;
             yield return ConfigReflection.Descriptor;
             yield return DeploymentReflection.Descriptor;
+            yield return MonitoringReflection.Descriptor;
             yield return gcl::LocationsReflection.Descriptor;
             yield return lro::OperationsReflection.Descriptor;
         }

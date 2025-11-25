@@ -29,6 +29,74 @@ namespace Microsoft.Extensions.DependencyInjection
     /// <summary>Static class to provide extension methods to configure API clients.</summary>
     public static partial class ServiceCollectionExtensions
     {
+        /// <summary>Adds a singleton <see cref="gccv::AuditClient"/> to <paramref name="services"/>.</summary>
+        /// <param name="services">
+        /// The service collection to add the client to. The services are used to configure the client when requested.
+        /// </param>
+        /// <param name="action">
+        /// An optional action to invoke on the client builder. This is invoked before services from
+        /// <paramref name="services"/> are used.
+        /// </param>
+        public static IServiceCollection AddAuditClient(this IServiceCollection services, sys::Action<gccv::AuditClientBuilder> action = null) =>
+            services.AddSingleton(provider =>
+            {
+                gccv::AuditClientBuilder builder = new gccv::AuditClientBuilder();
+                action?.Invoke(builder);
+                return builder.Build(provider);
+            });
+
+        /// <summary>Adds a singleton <see cref="gccv::AuditClient"/> to <paramref name="services"/>.</summary>
+        /// <param name="services">
+        /// The service collection to add the client to. The services are used to configure the client when requested.
+        /// </param>
+        /// <param name="action">
+        /// An optional action to invoke on the client builder. This is invoked before services from
+        /// <paramref name="services"/> are used.
+        /// </param>
+        public static IServiceCollection AddAuditClient(this IServiceCollection services, sys::Action<sys::IServiceProvider, gccv::AuditClientBuilder> action) =>
+            services.AddSingleton(provider =>
+            {
+                gccv::AuditClientBuilder builder = new gccv::AuditClientBuilder();
+                action?.Invoke(provider, builder);
+                return builder.Build(provider);
+            });
+
+        /// <summary>
+        /// Adds a singleton <see cref="gccv::CmEnrollmentServiceClient"/> to <paramref name="services"/>.
+        /// </summary>
+        /// <param name="services">
+        /// The service collection to add the client to. The services are used to configure the client when requested.
+        /// </param>
+        /// <param name="action">
+        /// An optional action to invoke on the client builder. This is invoked before services from
+        /// <paramref name="services"/> are used.
+        /// </param>
+        public static IServiceCollection AddCmEnrollmentServiceClient(this IServiceCollection services, sys::Action<gccv::CmEnrollmentServiceClientBuilder> action = null) =>
+            services.AddSingleton(provider =>
+            {
+                gccv::CmEnrollmentServiceClientBuilder builder = new gccv::CmEnrollmentServiceClientBuilder();
+                action?.Invoke(builder);
+                return builder.Build(provider);
+            });
+
+        /// <summary>
+        /// Adds a singleton <see cref="gccv::CmEnrollmentServiceClient"/> to <paramref name="services"/>.
+        /// </summary>
+        /// <param name="services">
+        /// The service collection to add the client to. The services are used to configure the client when requested.
+        /// </param>
+        /// <param name="action">
+        /// An optional action to invoke on the client builder. This is invoked before services from
+        /// <paramref name="services"/> are used.
+        /// </param>
+        public static IServiceCollection AddCmEnrollmentServiceClient(this IServiceCollection services, sys::Action<sys::IServiceProvider, gccv::CmEnrollmentServiceClientBuilder> action) =>
+            services.AddSingleton(provider =>
+            {
+                gccv::CmEnrollmentServiceClientBuilder builder = new gccv::CmEnrollmentServiceClientBuilder();
+                action?.Invoke(provider, builder);
+                return builder.Build(provider);
+            });
+
         /// <summary>Adds a singleton <see cref="gccv::ConfigClient"/> to <paramref name="services"/>.</summary>
         /// <param name="services">
         /// The service collection to add the client to. The services are used to configure the client when requested.
@@ -89,6 +157,38 @@ namespace Microsoft.Extensions.DependencyInjection
             services.AddSingleton(provider =>
             {
                 gccv::DeploymentClientBuilder builder = new gccv::DeploymentClientBuilder();
+                action?.Invoke(provider, builder);
+                return builder.Build(provider);
+            });
+
+        /// <summary>Adds a singleton <see cref="gccv::MonitoringClient"/> to <paramref name="services"/>.</summary>
+        /// <param name="services">
+        /// The service collection to add the client to. The services are used to configure the client when requested.
+        /// </param>
+        /// <param name="action">
+        /// An optional action to invoke on the client builder. This is invoked before services from
+        /// <paramref name="services"/> are used.
+        /// </param>
+        public static IServiceCollection AddMonitoringClient(this IServiceCollection services, sys::Action<gccv::MonitoringClientBuilder> action = null) =>
+            services.AddSingleton(provider =>
+            {
+                gccv::MonitoringClientBuilder builder = new gccv::MonitoringClientBuilder();
+                action?.Invoke(builder);
+                return builder.Build(provider);
+            });
+
+        /// <summary>Adds a singleton <see cref="gccv::MonitoringClient"/> to <paramref name="services"/>.</summary>
+        /// <param name="services">
+        /// The service collection to add the client to. The services are used to configure the client when requested.
+        /// </param>
+        /// <param name="action">
+        /// An optional action to invoke on the client builder. This is invoked before services from
+        /// <paramref name="services"/> are used.
+        /// </param>
+        public static IServiceCollection AddMonitoringClient(this IServiceCollection services, sys::Action<sys::IServiceProvider, gccv::MonitoringClientBuilder> action) =>
+            services.AddSingleton(provider =>
+            {
+                gccv::MonitoringClientBuilder builder = new gccv::MonitoringClientBuilder();
                 action?.Invoke(provider, builder);
                 return builder.Build(provider);
             });
