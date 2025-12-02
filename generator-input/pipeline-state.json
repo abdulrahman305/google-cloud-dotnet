@@ -277,7 +277,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-05T08:36:15.449615426Z",
-            "lastGeneratedCommit": "8b6f8775fe18a5e6dd54916373f6948f116e2b71",
+            "lastGeneratedCommit": "b9ef377f528dc6b8a1d8b6cfafdfbb28820cdcf4",
             "lastReleasedCommit": "faa7932e61d781ccb0647d4b25c2b452cb206af4",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
@@ -927,7 +927,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-05T08:56:57.302218936Z",
-            "lastGeneratedCommit": "c61890928ac3737f390f2b1f8e2ee5c6b00f8c46",
+            "lastGeneratedCommit": "1c1b1ff7874ae3a9a4184afd7804c092777ce72a",
             "lastReleasedCommit": "c61890928ac3737f390f2b1f8e2ee5c6b00f8c46",
             "apiPaths": [
                 "google/cloud/channel/v1"
@@ -1299,6 +1299,7 @@
         {
             "id": "Google.Cloud.Datastore.V1",
             "currentVersion": "4.17.0",
+            "nextVersion": "5.0.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-18T16:33:43.297661837Z",
@@ -2287,7 +2288,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-05T22:06:33.207408439Z",
-            "lastGeneratedCommit": "6821943108fe3284f483defc9b60774a3752de2b",
+            "lastGeneratedCommit": "586e752d5984af9f2bfa36c5e429793e106d9694",
             "lastReleasedCommit": "6821943108fe3284f483defc9b60774a3752de2b",
             "apiPaths": [
                 "google/cloud/networksecurity/v1beta1"
@@ -4112,6 +4113,7 @@
         {
             "id": "Google.Cloud.Firestore",
             "currentVersion": "3.13.0",
+            "nextVersion": "4.0.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-18T16:41:32.207593975Z",
@@ -4582,7 +4584,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-17T14:40:09.421406521Z",
-            "lastGeneratedCommit": "04085e583e40730b26a15194cd73f50626c08110",
+            "lastGeneratedCommit": "9a665b700840373e253db5af289d7df2a4fb41b9",
             "lastReleasedCommit": "04085e583e40730b26a15194cd73f50626c08110",
             "apiPaths": [
                 "google/shopping/merchant/accounts/v1"
