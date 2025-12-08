@@ -2662,7 +2662,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-06T09:00:00.441238316Z",
-            "lastGeneratedCommit": "d0ccd99fb95c25c20355550dafb850e45da99b19",
+            "lastGeneratedCommit": "d89bb8a1ea054e95e1d1ab9700428d950f40129e",
             "lastReleasedCommit": "d0ccd99fb95c25c20355550dafb850e45da99b19",
             "apiPaths": [
                 "google/pubsub/v1"
@@ -2827,7 +2827,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-06T09:34:53.481058287Z",
-            "lastGeneratedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
+            "lastGeneratedCommit": "d534d01c1eefcc9efc7b9182a2b98e9fe5b0922b",
             "lastReleasedCommit": "9070e63a1f574261c153ef6e94afc55677200337",
             "apiPaths": [
                 "google/cloud/run/v2"
@@ -4115,7 +4115,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-12-03T09:30:32.565774126Z",
-            "lastGeneratedCommit": "bfdeefc22ce661d0b0efb68c83c2afd5a3aa9c2c",
+            "lastGeneratedCommit": "534adc56f58b36a6a3e4b5b1cb7f9ee25a8e8a25",
             "lastReleasedCommit": "4823efd0b9944891ec5c387104dcc2ec401307a8",
             "apiPaths": [
                 "google/firestore/v1"
@@ -4429,7 +4429,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-05T22:19:38.890352135Z",
-            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
+            "lastGeneratedCommit": "fe58211356a91f4140ed51893703910db05ade91",
             "lastReleasedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/maintenance/api/v1beta"
