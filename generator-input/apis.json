@@ -412,7 +412,7 @@
     },
     {
       "id": "Google.Cloud.AIPlatform.V1Beta1",
-      "version": "1.0.0-beta62",
+      "version": "1.0.0-beta63",
       "type": "grpc",
       "productName": "Vertex AI",
       "productUrl": "https://cloud.google.com/vertex-ai/docs",
@@ -436,7 +436,7 @@
     },
     {
       "id": "Google.Cloud.AIPlatform.V1",
-      "version": "3.57.0",
+      "version": "3.58.0",
       "type": "grpc",
       "productName": "Vertex AI",
       "productUrl": "https://cloud.google.com/vertex-ai/docs",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "Google.Cloud.Compute.V1",
-      "version": "3.19.0",
+      "version": "3.20.0",
       "type": "regapic",
       "productName": "Compute Engine",
       "productUrl": "https://cloud.google.com/compute",
@@ -2791,7 +2791,7 @@
       "productName": "Firestore",
       "productUrl": "https://firebase.google.com/docs/firestore/",
       "listingDescription": "Firestore high-level library",
-      "version": "4.0.0",
+      "version": "4.1.0",
       "type": "other",
       "metadataType": "GAPIC_MANUAL",
       "description": "Recommended Google client library to access the Firestore API.",
@@ -2830,7 +2830,7 @@
       "productName": "Firestore",
       "productUrl": "https://firebase.google.com",
       "listingDescription": "Firestore low-level API access",
-      "version": "4.0.0",
+      "version": "4.1.0",
       "type": "grpc",
       "description": "Low-level Google client library to access the Firestore API. Users are recommended to use the Google.Cloud.Firestore package instead.",
       "tags": [
@@ -3094,7 +3094,7 @@
     },
     {
       "id": "Google.Cloud.GkeMultiCloud.V1",
-      "version": "2.9.0",
+      "version": "2.10.0",
       "type": "grpc",
       "productName": "Anthos Multi-Cloud",
       "productUrl": "https://cloud.google.com/anthos/clusters/docs/multi-cloud",
@@ -3655,7 +3655,7 @@
     },
     {
       "id": "Google.Cloud.Maintenance.Api.V1",
-      "version": "1.0.0-beta00",
+      "version": "1.0.0-beta01",
       "type": "grpc",
       "productName": "Maintenance",
       "productUrl": "https://cloud.google.com/unified-maintenance/docs/overview",
@@ -4917,7 +4917,7 @@
     },
     {
       "id": "Google.Cloud.Run.V2",
-      "version": "2.17.0",
+      "version": "2.18.0",
       "type": "grpc",
       "productName": "Cloud Run Admin",
       "productUrl": "https://cloud.google.com/run/docs",
