@@ -3,12 +3,12 @@
     "libraries": [
         {
             "id": "Google.Ads.AdManager.V1",
-            "currentVersion": "1.0.0-beta04",
+            "currentVersion": "1.0.0-beta05",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-11-03T18:23:46.363266345Z",
+            "releaseTimestamp": "2025-12-12T00:07:32.672194401Z",
             "lastGeneratedCommit": "8c06c1e04ae562f49f411357577c700e9142f33c",
-            "lastReleasedCommit": "1615c5124db6840cc120d4e855105789e2691746",
+            "lastReleasedCommit": "8c06c1e04ae562f49f411357577c700e9142f33c",
             "apiPaths": [
                 "google/ads/admanager/v1"
             ],
@@ -288,12 +288,12 @@
         },
         {
             "id": "Google.Cloud.AIPlatform.V1",
-            "currentVersion": "3.58.0",
+            "currentVersion": "3.59.0",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-12-09T10:57:07.807961260Z",
+            "releaseTimestamp": "2025-12-12T00:08:36.601780401Z",
             "lastGeneratedCommit": "effe5c4fa816021e724ca856d5640f2e55b14a8b",
-            "lastReleasedCommit": "a448b7d9f0778ee4e14d0be52269facb41989c4b",
+            "lastReleasedCommit": "effe5c4fa816021e724ca856d5640f2e55b14a8b",
             "apiPaths": [
                 "google/cloud/aiplatform/v1"
             ],
@@ -4397,12 +4397,12 @@
         },
         {
             "id": "Google.Cloud.GeminiDataAnalytics.V1Beta",
-            "currentVersion": "1.0.0-beta04",
+            "currentVersion": "1.0.0-beta05",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseTimestamp": "2025-11-10T14:08:24.429207883Z",
+            "releaseTimestamp": "2025-12-12T00:11:55.658657647Z",
             "lastGeneratedCommit": "b32495a713a68dd0dff90cf0b24021debfca048a",
-            "lastReleasedCommit": "22235800efcfacbb97ba8f4fa7edc0f835b1d2a3",
+            "lastReleasedCommit": "b32495a713a68dd0dff90cf0b24021debfca048a",
             "apiPaths": [
                 "google/cloud/geminidataanalytics/v1beta"
             ],
@@ -4726,9 +4726,10 @@
         },
         {
             "id": "Google.Cloud.VertexAI.Extensions",
-            "nextVersion": "1.0.0-beta01",
+            "currentVersion": "1.0.0-beta01",
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
-            "releaseAutomationLevel": "AUTOMATION_LEVEL_BLOCKED",
+            "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
+            "releaseTimestamp": "2025-12-12T00:12:58.813619804Z",
             "sourcePaths": [
                 "apis/Google.Cloud.VertexAI.Extensions/Google.Cloud.VertexAI.Extensions"
             ]

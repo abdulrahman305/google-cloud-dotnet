@@ -2,7 +2,7 @@
   "apis": [
     {
       "id": "Google.Ads.AdManager.V1",
-      "version": "1.0.0-beta04",
+      "version": "1.0.0-beta05",
       "type": "grpc",
       "productName": "Google Ad Manager",
       "productUrl": "https://developers.google.com/ad-manager/api/beta",
@@ -436,7 +436,7 @@
     },
     {
       "id": "Google.Cloud.AIPlatform.V1",
-      "version": "3.58.0",
+      "version": "3.59.0",
       "type": "grpc",
       "productName": "Vertex AI",
       "productUrl": "https://cloud.google.com/vertex-ai/docs",
@@ -2968,7 +2968,7 @@
     },
     {
       "id": "Google.Cloud.GeminiDataAnalytics.V1Beta",
-      "version": "1.0.0-beta04",
+      "version": "1.0.0-beta05",
       "type": "grpc",
       "productName": "Data Analytics API with Gemini",
       "productUrl": "https://cloud.google.com/gemini/docs/conversational-analytics-api/overview",
@@ -6031,7 +6031,7 @@
     },
     {
       "id": "Google.Cloud.VertexAI.Extensions",
-      "version": "1.0.0-beta00",
+      "version": "1.0.0-beta01",
       "type": "other",
       "metadataType": "INTEGRATION",
       "description": "Vertex AI implementation of Microsoft.Extensions.AI.",
