@@ -97,7 +97,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-03T18:27:28.065987146Z",
-            "lastGeneratedCommit": "98fef441cef53480961d4e174164def1834a290c",
+            "lastGeneratedCommit": "4eccddb5094aadc369f349cd468222adc5d01a91",
             "lastReleasedCommit": "98fef441cef53480961d4e174164def1834a290c",
             "apiPaths": [
                 "google/chat/v1"
@@ -1077,7 +1077,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-12-09T10:59:45.055022543Z",
-            "lastGeneratedCommit": "4667f02b64f2259ef21249b026ced7bb4351c632",
+            "lastGeneratedCommit": "840758a5dfe709331f2844603dd161a74e6f2696",
             "lastReleasedCommit": "4667f02b64f2259ef21249b026ced7bb4351c632",
             "apiPaths": [
                 "google/cloud/compute/v1"
@@ -2122,7 +2122,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-05T21:52:16.010262114Z",
-            "lastGeneratedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
+            "lastGeneratedCommit": "b60f5a5783d5ec0e8a8d254f73ad00316b9b646f",
             "lastReleasedCommit": "36533b09a6b383f3c30d13c3c26092154ecf5388",
             "apiPaths": [
                 "google/cloud/memorystore/v1"
@@ -4401,7 +4401,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-12-12T00:11:55.658657647Z",
-            "lastGeneratedCommit": "b32495a713a68dd0dff90cf0b24021debfca048a",
+            "lastGeneratedCommit": "4149dbdc4685cc9f6f693e72d86a23f8eba55b64",
             "lastReleasedCommit": "b32495a713a68dd0dff90cf0b24021debfca048a",
             "apiPaths": [
                 "google/cloud/geminidataanalytics/v1beta"
