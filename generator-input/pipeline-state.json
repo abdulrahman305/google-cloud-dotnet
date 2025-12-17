@@ -97,7 +97,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-03T18:27:28.065987146Z",
-            "lastGeneratedCommit": "4eccddb5094aadc369f349cd468222adc5d01a91",
+            "lastGeneratedCommit": "1a9d00bed77e6db82ff67764ffe14e3b5209f5cd",
             "lastReleasedCommit": "98fef441cef53480961d4e174164def1834a290c",
             "apiPaths": [
                 "google/chat/v1"
@@ -277,7 +277,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-12-09T10:55:33.816793043Z",
-            "lastGeneratedCommit": "a448b7d9f0778ee4e14d0be52269facb41989c4b",
+            "lastGeneratedCommit": "a8e146aa16692f8addd1f31c5c0964de14a314d9",
             "lastReleasedCommit": "a448b7d9f0778ee4e14d0be52269facb41989c4b",
             "apiPaths": [
                 "google/cloud/aiplatform/v1beta1"
@@ -942,7 +942,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-12-03T08:50:49.761570132Z",
-            "lastGeneratedCommit": "943025a9f8f2902af19781e504eb80c7428f7836",
+            "lastGeneratedCommit": "ba1f5de3e3d58547e721ff04d3a9f32f4e8c58bb",
             "lastReleasedCommit": "943025a9f8f2902af19781e504eb80c7428f7836",
             "apiPaths": [
                 "google/devtools/cloudbuild/v1"
@@ -4755,7 +4755,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-11T17:44:17.922443020Z",
-            "lastGeneratedCommit": "8b80b1498e7016be58f6c09d0a86ddf0ea37feae",
+            "lastGeneratedCommit": "fd1f9da3c6b3465b3752f96e468eaea36d722177",
             "lastReleasedCommit": "8b80b1498e7016be58f6c09d0a86ddf0ea37feae",
             "apiPaths": [
                 "google/cloud/databasecenter/v1beta"
