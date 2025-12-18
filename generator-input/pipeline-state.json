@@ -247,7 +247,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-03T18:38:10.331253988Z",
-            "lastGeneratedCommit": "48c3f2f1639caf5f99acd0490bc3da1abe6190cd",
+            "lastGeneratedCommit": "59fdfa7adad87f1698f2351591d8379a230041af",
             "lastReleasedCommit": "48c3f2f1639caf5f99acd0490bc3da1abe6190cd",
             "apiPaths": [
                 "google/cloud/alloydb/v1beta"
@@ -2662,7 +2662,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-11-06T09:00:00.441238316Z",
-            "lastGeneratedCommit": "d89bb8a1ea054e95e1d1ab9700428d950f40129e",
+            "lastGeneratedCommit": "ff251e77243a7acef77f602616f3bf6ec0d3c48f",
             "lastReleasedCommit": "d0ccd99fb95c25c20355550dafb850e45da99b19",
             "apiPaths": [
                 "google/pubsub/v1"
@@ -4066,7 +4066,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-12-03T09:04:40.487219777Z",
-            "lastGeneratedCommit": "ded7ed1e4cce7c165c56a417572cebea9bc1d82c",
+            "lastGeneratedCommit": "6e20492aec2aab4837928440f1026d32a6251fa0",
             "lastReleasedCommit": "ded7ed1e4cce7c165c56a417572cebea9bc1d82c",
             "apiPaths": [
                 "google/spanner/admin/database/v1",
@@ -4401,7 +4401,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-12-12T00:11:55.658657647Z",
-            "lastGeneratedCommit": "4149dbdc4685cc9f6f693e72d86a23f8eba55b64",
+            "lastGeneratedCommit": "80509f2e7c23556d0068eb01471bc9ddd7b93bb5",
             "lastReleasedCommit": "b32495a713a68dd0dff90cf0b24021debfca048a",
             "apiPaths": [
                 "google/cloud/geminidataanalytics/v1beta"
@@ -4785,7 +4785,7 @@
             "generationAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseAutomationLevel": "AUTOMATION_LEVEL_AUTOMATIC",
             "releaseTimestamp": "2025-12-09T11:29:42.796464234Z",
-            "lastGeneratedCommit": "fe58211356a91f4140ed51893703910db05ade91",
+            "lastGeneratedCommit": "6d6acd2e993c45a7a45fc6374d6c2fc987af1f77",
             "lastReleasedCommit": "fe58211356a91f4140ed51893703910db05ade91",
             "apiPaths": [
                 "google/cloud/maintenance/api/v1"
